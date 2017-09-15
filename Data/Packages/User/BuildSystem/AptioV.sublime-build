@@ -1,0 +1,12 @@
+{
+	"path":"$PATH;E:/Work/Sublime Text x64/Data/Packages/User/BuildSystem;E:/Work/Sublime Text x64",
+	"working_dir":"${folder}",
+	
+	"shell_cmd": "AptioVBuiild.bat buildall",
+	"variants": [
+		{	
+			"name":"F7 Build",
+			"shell_cmd": "AptioVBuiild.bat build"
+		}
+    ]
+}

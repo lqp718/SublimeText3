@@ -1,0 +1,39 @@
+<snippet>
+	<content><![CDATA[
+//Blake_debug>>>
+EFI_STATUS OemGetSystemMemoryMap(
+    OUT EFI_MEMORY_DESCRIPTOR **MemMap,
+    OUT UINTN *MemDescSize,
+    OUT UINTN *MemEntriesCount
+)
+{
+    EFI_STATUS Status;
+    UINTN MemMapSize, MemMapKey;
+    UINT32 MemDescVer;
+    *MemMap = NULL;
+
+    MemMapSize = 0; // GetMemoryMap will return the size needed for the map
+    Status = CoreGetMemoryMap(&MemMapSize, *MemMap,
+                    &MemMapKey, MemDescSize, &MemDescVer);
+
+    // The following memory allocation may alter memory map.
+    // Let's add space for 5 more descriptors to be sure buffer is big enough
+    if (Status != EFI_BUFFER_TOO_SMALL) return Status;
+    MemMapSize += 5 * *MemDescSize;
+    Status = CoreAllocatePool(EfiBootServicesData, MemMapSize, MemMap);
+    ASSERT_EFI_ERROR(Status);
+
+    Status = CoreGetMemoryMap(&MemMapSize, *MemMap,
+                    &MemMapKey, MemDescSize, &MemDescVer);
+    ASSERT_EFI_ERROR(Status);
+
+    *MemEntriesCount = (UINT16)(MemMapSize / *MemDescSize);
+    return Status;
+}
+//Blake_debug<<<
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>OemGetMap</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

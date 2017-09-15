@@ -1,0 +1,4 @@
+[
+    { "caption": "OPEN: Workspace", "command": "open_workspace"},
+    { "caption": "OPEN: File Path", "command": "open_workspace" , "args": {"file_path": "True"}},
+]

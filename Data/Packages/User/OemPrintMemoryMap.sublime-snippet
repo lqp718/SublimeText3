@@ -1,0 +1,40 @@
+<snippet>
+	<content><![CDATA[
+//Blake_debug>>>
+{
+  UINTN MemDescSize;
+  EFI_MEMORY_DESCRIPTOR *MemMap;
+  EFI_MEMORY_DESCRIPTOR *mm;
+  UINTN count = 0;
+  UINTN MemEntriesCount;
+  OemGetSystemMemoryMap(&MemMap, &MemDescSize, &MemEntriesCount);
+  DEBUG((-1, "Blake_debug:\n"));
+  for (mm = MemMap; count < MemEntriesCount; mm=(EFI_MEMORY_DESCRIPTOR*)((UINT8*)mm+MemDescSize), count++) {
+    DEBUG((-1, "%016lx, %05x, ", mm->PhysicalStart, mm->NumberOfPages)); // AptioV Purley Override: AEP changes
+    switch (mm->Type) {
+        case EfiReservedMemoryType: DEBUG((-1, "EfiReservedMemoryType\n")); break;
+        case EfiLoaderCode: DEBUG((-1, "EfiLoaderCode\n")); break;
+        case EfiLoaderData: DEBUG((-1, "EfiLoaderData\n")); break;
+        case EfiBootServicesCode: DEBUG((-1, "EfiBootServicesCode\n")); break;
+        case EfiBootServicesData: DEBUG((-1, "EfiBootServicesData\n")); break;
+        case EfiRuntimeServicesCode: DEBUG((-1, "EfiRuntimeServicesCode\n")); break;
+        case EfiRuntimeServicesData: DEBUG((-1, "EfiRuntimeServicesData\n")); break;
+        case EfiConventionalMemory: DEBUG((-1, "EfiConventionalMemory\n")); break;
+        case EfiUnusableMemory: DEBUG((-1, "EfiUnusableMemory\n")); break;
+        case EfiACPIReclaimMemory: DEBUG((-1, "EfiACPIReclaimMemory\n")); break;
+        case EfiACPIMemoryNVS: DEBUG((-1, "EfiACPIMemoryNVS\n")); break;
+        case EfiMemoryMappedIO: DEBUG((-1, "EfiMemoryMappedIO\n")); break;
+        case EfiMemoryMappedIOPortSpace: DEBUG((-1, "EfiMemoryMappedIOPortSpace\n")); break;
+        case EfiPalCode: DEBUG((-1, "EfiPalCode\n")); break;
+        case EfiPersistentMemory:  DEBUG((-1, "EfiPersistentMemory\n")); break; // AptioV Purley Override: AEP changes
+        default: DEBUG((-1, "%x\n", mm->Type));
+    }
+  }
+}
+//Blake_debug<<<
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>PrintMap</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

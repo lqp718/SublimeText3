@@ -1,0 +1,8 @@
+[
+    {
+        "keys": ["ctrl+home"], "command": "open_workspace"
+    },
+    {
+    	"keys": ["ctrl+shift+home"], "command": "open_workspace", "args": {"file_path": "True"}
+    }
+]

@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Copy as HTML",
+		"GenerateUUID",
+		"Git Conflict Resolver",
+		"Highlight Build Errors",
+		"INI",
+		"Makefile Plus",
+		"MasmAssembly",
+		"Monokai Extended",
+		"Package Control",
+		"PackageResourceViewer",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter-contrib-clang",
+		"SublimeREPL",
+		"Sublimerge 3",
+		"Theme - Soda",
+		"UnicodeMath",
+		"WordHighlight"
+	]
+}

@@ -1,0 +1,45 @@
+[
+	//Sublime Test binding key setting start>>>
+	{ "keys": ["ctrl+d"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+	{ "keys": ["ctrl+shift+s"], "command": "show_panel", "args": {"panel": "find_in_files"} },
+	{ "keys": ["f11"], "command": "goto_definition" },
+  { "keys": ["ctrl+shift+c"], "command": "copy_as_html" },
+	{ "keys": ["ctrl+shift+v"], "command": "paste_from_history" },
+	{ "keys": ["f9"], "command": "build" },
+    { "keys": ["f7"], "command": "build", "args": {"select": true} },
+    { "keys": ["ctrl+b"], "command": "move_to", "args": {"to": "brackets"} },
+    { "keys": ["alt+2"], "command": "jump_forward" },
+	{ "keys": ["alt+1"], "command": "jump_back" },
+    { "keys": ["ctrl+f3"], "command": "find_under_expand" },
+    { "keys": ["ctrl+t"], "command": "toggle_side_bar" }, 
+    //Sublime Test binding key Setting End<<<
+
+    //BracketHighlighter Key setting start>>>
+    {
+        "keys": ["ctrl+shift+b"],
+        "command": "bh_toggle_high_visibility"
+    },
+    //BracketHighlighter key Setting End<<<
+
+    //Ctag Key Setting Start>>>
+    {
+        "command": "navigate_to_definition",
+        "keys": ["f11"]
+    },
+    //Ctag Key Setting End<<<
+    {
+        "keys": ["f5"],
+        "command": "repl_open",
+        "caption": "Python",
+        "mnemonic": "p",
+        "args":{
+          "type": "subprocess",
+          "encoding": "utf8",
+          "cmd": ["python", "-i", "-u", "$file_basename"],
+          "cwd": "$file_path",
+          "syntax": "Packages/Python/Python.tmLanguage",
+          "external_id": "python",
+          "extend_env": {"PYTHONIOENCODING": "utf-8"}
+        }
+    },
+]
