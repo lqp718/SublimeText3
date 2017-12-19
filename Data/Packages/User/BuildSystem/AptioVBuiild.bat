@@ -11,7 +11,13 @@ if exist PurleyLenovo.veb (
 	if exist MehlowSvrLenovo.veb (
 		set VEB=MehlowSvrLenovo
 	) else (
-		set VEB=PurleyCrb
+		if exist MehlowSVR.veb (
+			set VEB=MehlowSVR
+		) else (
+			if exist PurleyCrb.veb (
+				set VEB=PurleyCrb
+			)
+		)
 	)
 )
 

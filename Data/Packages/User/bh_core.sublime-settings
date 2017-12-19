@@ -1,3 +1,6 @@
 {
-
+"search_threshold": 50000,
+"ignore_threshold": false,
+"kill_highlight_on_threshold": true,
+"auto_selection_threshold" : 100,
 }
