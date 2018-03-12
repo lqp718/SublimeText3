@@ -1,0 +1,36 @@
+{
+  // Are you using an unregistered version of Sublime ?
+  "unregistered": false,
+
+  // Template for the window title.
+  // The template accept the following parameters:
+  // - {path}: the path of the current file
+  // - {project}: the project name, or the name of the top folder
+  // - {has_project}: will be replaced by the content of "has_project_true" or
+  //   "has_project_false" settings, depending if a "project" has been found.
+  // - {is_dirty}: will be replaced by the content of "is_dirty_true" or
+  //   "is_dirty_false" settings, depending if the current view is being
+  //   modified.
+  //
+  // Note that the replacement happens before the formatting.
+  // So "has_project_true", "has_project_false", ... strings may contains other
+  // parameters like {project}.
+  "template": "{has_project}{path} {is_dirty} Sublime Text",
+
+  "has_project_true": "({project})",
+  "has_project_false": "({project})",
+  "is_dirty_true": "~",
+  "is_dirty_false": "-",
+
+  // Way to display the path. Accepts:
+  // - "full": full-path,
+  // - "relative": path relative to the top folder,
+  // - "shortest": shortest of above paths
+  "path_display": "shortest",
+
+  // The value of {path} for untitled files.
+  "untitled": "",
+
+  // Output some debug info in the console.
+  "debug": true,
+}

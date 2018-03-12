@@ -1,10 +1,10 @@
 @echo on
 
-set PATH=E:\BuildTool\WinDDK\7600.16385.1\bin\x86;E:\BuildTool\Aptio_5.x_30\BuildTools;%PATH%
+set PATH=E:\BuildTool\WinDDK\7600.16385.1\bin\x86;E:\BuildTool\AptioVBuildTools;%PATH%
 
 set CCX86DIR=E:\BuildTool\WinDDK\7600.16385.1\bin\x86\x86
 set CCX64DIR=E:\BuildTool\WinDDK\7600.16385.1\bin\x86\amd64
-set TOOLS_DIR=E:\BuildTool\Aptio_5.x_30\BuildTools
+set TOOLS_DIR=E:\BuildTool\AptioVBuildTools
 if exist PurleyLenovo.veb (
 	set VEB=PurleyLenovo
 ) else (
