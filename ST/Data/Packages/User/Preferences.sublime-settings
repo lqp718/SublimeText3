@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"font_face": "Consolas",
+	"font_size": 14,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"ConvertToUTF8",
+		"Git Conflict Resolver",
+		"Makefile",
+		"Vintage"
+	],
+	"remember_full_screen": true,
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
