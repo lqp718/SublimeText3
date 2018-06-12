@@ -12,5 +12,6 @@
 	],
 	"remember_full_screen": true,
 	"soda_classic_tabs": true,
-	"theme": "Soda Dark 3.sublime-theme"
+	"theme": "Soda Dark 3.sublime-theme",
+	"update_check": false
 }

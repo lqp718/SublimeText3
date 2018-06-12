@@ -26,3 +26,4 @@ if exist PurleyLenovo.veb (
 
 if "%1" == "buildall" make rebuild
 if "%1" == "build" make
+if "%1" == "binary" make UPD

@@ -1,5 +1,5 @@
 {
-	"path":"$PATH;E:/Work/Sublime Text x64/Data/Packages/User/BuildSystem;E:/Work/Sublime Text x64",
+	"path":"$PATH;E:/Work/Sublime Text x64/ST/Data/Packages/User/BuildSystem;E:/Work/Sublime Text x64/ST",
 	"working_dir":"${folder}",
 	
 	"shell_cmd": "AptioVBuiild.bat buildall",
@@ -7,6 +7,18 @@
 		{	
 			"name":"F7 Build",
 			"shell_cmd": "AptioVBuiild.bat build"
+		},
+		{	
+			"name":"PUD Build",
+			"shell_cmd": "AptioVBuiild.bat binary"
+		},
+		{	
+			"name":"MLK Build",
+			"shell_cmd": "AptioVMLKBuild.bat buildall"
+		},
+		{	
+			"name":"MLK F7 Build",
+			"shell_cmd": "AptioVMLKBuild.bat build"
 		}
     ]
 }

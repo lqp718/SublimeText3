@@ -275,6 +275,9 @@ class SetWindowTitle(EventListener):
       for w in Window.list_all():
         if w.title.startswith("untitled"):
           w.title = new_title
+
+        if w.title.startswith('Find Results'):
+          w.title = new_title
           # TODO: Understand why caching the windows handle cause crashes.
           # self.window_handle_cache[window.id()] = w
     else:
