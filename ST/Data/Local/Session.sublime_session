@@ -68,8 +68,8 @@
 		"/E/_Code/_Purley/_Code/_02MOD/Code/LenovoCorePkg/Bin/Security/Tpm20MfgToolNationZ",
 		"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SystemAgent/MemoryInitCfl/Library/Private/PeiMemoryInitLib"
 	],
-	"last_version": 3176,
-	"last_window_id": 273,
+	"last_version": 3200,
+	"last_window_id": 274,
 	"log_indexing": false,
 	"settings":
 	{
@@ -1253,15 +1253,13 @@
 			},
 			"file_history":
 			[
-				"/E/_Code/_Purley/_Code/_Platform_Code/_01_AEP_Update/Code/AmiModulePkg/PCI/PciBus.c",
-				"/E/_Code/_Purley/_Code/_Platform_Code/_01_AEP_Update/Code/AmiTsePkg/EDK/MiniSetup/TSESources.Sdl",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/README.markdown",
 				"/E/Work/Sublime Text x64/ST/Data/Packages/Monokai Extended/Monokai Extended.tmTheme",
 				"/E/Work/Sublime Text x64/ST/Data/Packages/Monokai Extended/Monokai Extended.JSON-tmTheme",
 				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/word_highlight.py",
 				"/E/Work/Sublime Text x64/ST/Data/Packages/Theme - Soda/Soda Dark 3.sublime-theme",
 				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/Word Highlight.sublime-settings",
 				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/package-metadata.json",
+				"/E/_Code/_Purley/_Code/_Platform_Code/_01_AEP_Update/Code/AmiModulePkg/PCI/PciBus.c",
 				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/AmiModulePkg/IO/Pilot4/Pilot4.sdl",
 				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/Token.h",
 				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/AmiGpioTable.h",
@@ -1380,11 +1378,13 @@
 				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/TpmVersionToggling/TPMVersionTogglingDxe.inf",
 				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiAfterMem.c",
 				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTpm20PlatformPei.c",
-				"/E/_Code/_Purley/_Code/_01ORG_AEP/Code/PurleyLenovo.veb"
+				"/E/_Code/_Purley/_Code/_01ORG_AEP/Code/PurleyLenovo.veb",
+				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Platform/PlatformSetup/Dxe/PlatformSetup.c",
+				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiDxeSoftwareGuardLib/PeiDxeSoftwareGuardLib.c"
 			],
 			"find":
 			{
-				"height": 42.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
@@ -1398,17 +1398,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"selection",
-					"fing",
-					"match",
-					"find",
-					"section",
-					"match",
-					"math",
-					"selection",
-					"Highlight",
-					"WordHighlight",
-					"PciBusStart"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1471,7 +1460,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,995,130,130,1582",
+			"position": "0,2,3,-1,-1,-1,-1,1021,156,156,1608",
 			"project": "",
 			"replace":
 			{
@@ -1484,10 +1473,6 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						".sd",
-						"AmiTsePkg\\EDK\\MiniSetup\\TSESources.Sdl"
-					],
 					[
 						"pcibus.c",
 						"AmiModulePkg\\PCI\\PciBus.c"
@@ -1995,6 +1980,10 @@
 					[
 						"gptrecovery",
 						"LenovoCorePkg\\Library\\GPTRecoveryPolicyLib\\GPTRecoveryPolicyLib.c"
+					],
+					[
+						"platformpkg.dec",
+						"Intel\\CannonLakePlatSamplePkg\\PlatformPkg.dec"
 					]
 				],
 				"width": 0.0
@@ -2030,7 +2019,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 268,
+			"window_id": 274,
 			"workspace_name": ""
 		}
 	],
