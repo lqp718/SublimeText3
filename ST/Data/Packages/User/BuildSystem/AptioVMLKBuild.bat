@@ -19,6 +19,21 @@ if exist PurleyLenovo.veb (
 		)
 	)
 )
+if exist BakervilleLenovo.veb (
+	set VEB=BakervilleLenovo
+) else (
+	if exist Bakerville.veb (
+		set VEB=Bakerville
+	)
+)
+
+if exist WhitleyLenovo.veb (
+	set VEB=WhitleyLenovo
+) else (
+	if exist WhitleyCrb.veb (
+		set VEB=WhitleyCrb
+	)
+)
 
 ::start D:\Work\Aptio_5.27\VisualeBios\VisualeBios.exe
 ::set VEB=D:\_Code\_Purley\_02_MOD\Code\PurleyLenovo

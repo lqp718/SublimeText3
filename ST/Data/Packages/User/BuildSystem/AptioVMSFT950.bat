@@ -20,17 +20,10 @@ if exist PurleyLenovo.veb (
 		)
 	)
 )
-if exist BakervilleLenovo.veb (
-	set VEB=BakervilleLenovo
-) else (
-	if exist Bakerville.veb (
-		set VEB=Bakerville
-	)
-)
+xcopy Override_MSFT\*.* . /E /Y
 
 ::start D:\Work\Aptio_5.27\VisualeBios\VisualeBios.exe
 ::set VEB=D:\_Code\_Purley\_02_MOD\Code\PurleyLenovo
 
 if "%1" == "buildall" make rebuild
 if "%1" == "build" make
-if "%1" == "binary" make UPD

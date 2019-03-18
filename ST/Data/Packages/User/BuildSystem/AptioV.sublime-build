@@ -9,16 +9,20 @@
 			"shell_cmd": "AptioVBuiild.bat build"
 		},
 		{	
-			"name":"PUD Build",
-			"shell_cmd": "AptioVBuiild.bat binary"
-		},
-		{	
-			"name":"MLK Build",
+			"name":"WDK1703 Build",
 			"shell_cmd": "AptioVMLKBuild.bat buildall"
 		},
-		{	
-			"name":"MLK F7 Build",
+		{
+			"name":"WDK1703 F7 Build",
 			"shell_cmd": "AptioVMLKBuild.bat build"
+		},
+		{
+			"name":"MSFT 950 Build",
+			"shell_cmd": "AptioVMSFT950.bat buildall"
+		},
+		{
+			"name":"MSFT 650 Build",
+			"shell_cmd": "AptioVMSFT650.bat buildall"
 		}
     ]
 }
