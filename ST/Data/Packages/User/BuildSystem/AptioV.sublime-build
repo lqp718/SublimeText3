@@ -1,5 +1,5 @@
 {
-	"path":"$PATH;E:/Work/Sublime Text x64/Data/Packages/User/BuildSystem;E:/Work/Sublime Text x64",
+	"path":"$PATH;E:/Work/Sublime Text x64/ST/Data/Packages/User/BuildSystem;E:/Work/Sublime Text x64/ST",
 	"working_dir":"${folder}",
 	
 	"shell_cmd": "AptioVBuiild.bat buildall",
@@ -7,6 +7,26 @@
 		{	
 			"name":"F7 Build",
 			"shell_cmd": "AptioVBuiild.bat build"
+		},
+		{	
+			"name":"WDK1703 Build",
+			"shell_cmd": "AptioVMLKBuild.bat buildall"
+		},
+		{
+			"name":"WDK1703 F7 Build",
+			"shell_cmd": "AptioVMLKBuild.bat build"
+		},
+		{
+			"name":"Whitley Build",
+			"shell_cmd": "AptioVWTLBuild.bat buildall"
+		},
+		{
+			"name":"MSFT 950 Build",
+			"shell_cmd": "AptioVMSFT950.bat buildall"
+		},
+		{
+			"name":"MSFT 650 Build",
+			"shell_cmd": "AptioVMSFT650.bat buildall"
 		}
     ]
 }

@@ -1,19 +1,42 @@
 {
 	"folder_history":
 	[
+		"/E/Work/Sublime Text x64/ST/Data/Packages/User/BuildSystem",
+		"/E/_Code/_AMD/_01_MOD",
+		"/E/_Code/_Hodaka/_01_ORG/Code",
+		"/E/_Code/_Purley/_Code/_01ORG_AEP/Code",
+		"/E/_Code/_Mehlow/_02_MOD/Code",
+		"/E/_Code/_Hodaka/_01_ORG_2/Code",
+		"/E/_Code/_Hodaka/_MLK_IOT_PORT_BASE/Code",
+		"/E/_Code/_Whitley/_01_ORG",
+		"/E/_Code/_Whitley/CRB/Whitley/Code",
+		"/E/_Code/_Purley/_Code/CRB/5.12_PurleyCrb_0ACFD086_BETA",
+		"/E/_Code/_Purley/_Code/CRB/AEP/purleyrefresh45",
+		"/E/_Code/_AMD/CRB/CRB06",
+		"/E/_Code/_Hodaka/_02_MOD/Code",
+		"/E/_Code/_Whitley/_02_MOD",
+		"/E/_Code/_Mehlow/Crb/01_MLK/Code",
+		"/E/_Code/_Mehlow/Crb/01_update/Code",
+		"/E/_Code/_Purley/_Code/_AEP_TPM750/Code",
+		"/E/_Code/_Purley/_Code/_01_MLK_19A/Code",
+		"/E/_Code/_Mehlow/_01_GA/Code",
+		"/E/_Code/_Purley/_Code/_01_GA/Code",
+		"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/IO/Pilot4",
+		"/E/_Code/_Purley/_Code/CRB/AEP/purleyrefresh45beta",
+		"/E/_Code/Proton_SKX_Development_MSFT",
+		"/E/_Code/_Mehlow/Crb/_Mehlow_CRB",
+		"/E/_Code/EDKII/edk2",
+		"/E/_Code/_Purley/_Code/CRB/AEP/purleyrefresh44beta",
+		"/E/_Code/_Purley/_Code/_02MOD/Code",
+		"/E/Work/Sublime Text x64/ST",
 		"/E/_Code/_Purley/_Code/_Platform_Code/_01_AEP_Update/Code",
 		"/E/_Code/_Mehlow/Crb/_Pre_Mehlow_CRB",
-		"/E/_Code/_Mehlow/Crb/_Mehlow_CRB",
-		"/E/_Code/_Mehlow/_02_MOD/Code",
-		"/E/_Code/_Mehlow/Crb/01_update/Code",
 		"/E/_Code/_Purley/_Code/_Platform_Code/_01_Update/Code",
-		"/E/_Code/_Purley/_Code/_02MOD/Code",
 		"/E/_Code/_Mehlow/Crb/01_update/Code/MehlowLenovoPkg/Setup",
 		"/E/_Code/_Mehlow/Crb/CRB_Porting/CRB10_MiniChange/Original",
 		"/E/_Code/_Mehlow/Crb/CRB_Porting/CRB10_MiniChange/Modified",
 		"/E/_Code/_Mehlow/_01_ORG/Code",
 		"/E/_Code/_Mehlow/Crb/5.13_VEB_1AURF009",
-		"/E/_Code/_Purley/_Code/_01ORG_AEP/Code",
 		"/E/_Code/_Purley/_Code/Purley_Mehlow_porting_base/Code",
 		"/E/_Code/_Mehlow/Crb/5.13_VEB_1AURF0010",
 		"/E/_Code/_Purley/_Code/CRB/AEP/Label20",
@@ -68,8 +91,8 @@
 		"/E/_Code/_Purley/_Code/_02MOD/Code/LenovoCorePkg/Bin/Security/Tpm20MfgToolNationZ",
 		"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SystemAgent/MemoryInitCfl/Library/Private/PeiMemoryInitLib"
 	],
-	"last_version": 3200,
-	"last_window_id": 274,
+	"last_version": 3207,
+	"last_window_id": 360,
 	"log_indexing": false,
 	"settings":
 	{
@@ -81,16 +104,32 @@
 				"selected_items":
 				[
 					[
+						"Tar",
+						"TargetH"
+					],
+					[
+						"LenovoDynaic",
+						"LenovoDynamicDebug_FORCE_ASSERT"
+					],
+					[
+						"Ta",
+						"TargetH"
+					],
+					[
+						"Val",
+						"Value"
+					],
+					[
+						"EFI",
+						"EFI_SUCCESS"
+					],
+					[
 						"LENOVO",
 						"LENOVO_PORT"
 					],
 					[
 						"Debug",
 						"DebugLib\t(Crb.sdl)"
-					],
-					[
-						"EFI",
-						"EFI_STATUS"
 					],
 					[
 						"isLe",
@@ -183,6 +222,226 @@
 				[
 					[
 						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"WDK1703 Build"
+					]
+				],
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"Whitley Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"Whitley Build"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"WDK1703 Build"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"Whitley Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"Whitley Build"
+					]
+				],
+				[
+					[
+						[
 							"Packages/C++/C++ Single File.sublime-build",
 							""
 						],
@@ -190,6 +449,70 @@
 							"Packages/C++/C++ Single File.sublime-build",
 							"Run"
 						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"WDK1703 Build"
+					]
+				],
+				[
+					[
 						[
 							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
 							""
@@ -221,11 +544,67 @@
 						[
 							"Packages/User/BuildSystem/AptioV.sublime-build",
 							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
 						]
 					],
 					[
 						"Packages/User/BuildSystem/AptioV.sublime-build",
 						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"Whitley Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"Whitley Build"
 					]
 				]
 			],
@@ -237,6 +616,26 @@
 				"selected_items":
 				[
 					[
+						"git add c",
+						"Git: Add Current File"
+					],
+					[
+						"gitt add c",
+						"Git: Add Current File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git pull",
+						"Git: Pull Current Branch"
+					],
+					[
 						"revire",
 						"PackageResourceViewer: Open Resource"
 					],
@@ -247,10 +646,6 @@
 					[
 						"Package Control: ",
 						"Package Control: List Packages"
-					],
-					[
-						"git add c",
-						"Git: Add Current File"
 					],
 					[
 						"git adc",
@@ -289,142 +684,142 @@
 			},
 			"file_history":
 			[
-				"/E/Work/Sublime Text x64/ST/Data/Packages/Monokai Extended/Monokai Extended.tmTheme",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/Monokai Extended/Monokai Extended.JSON-tmTheme",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/word_highlight.py",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/Theme - Soda/Soda Dark 3.sublime-theme",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/Word Highlight.sublime-settings",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/package-metadata.json",
-				"/E/_Code/_Purley/_Code/_Platform_Code/_01_AEP_Update/Code/AmiModulePkg/PCI/PciBus.c",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/AmiModulePkg/IO/Pilot4/Pilot4.sdl",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/Token.h",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/AmiGpioTable.h",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/Token.mak",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/CrbPkg/Crb.sdl",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/AmiModulePkg/TCG2/Common/Setup/TcgSetup.sd",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/AmiModulePkg/IO/AST2500/AST2500.mak",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/AmiPkg/Configuration/Configuration.sdl",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/Platform.dsc",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/RomImage/MossBeachServer_sps.bat",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/RomImage/Config/MossBeachSiEn_BX.xml",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/RomImage/Config/MossBeachFull_BX.xml",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/MdePkg/MdePkg.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/MehlowServer/RELEASE_MYTOOLS/X64/Build/Setup/OUTPUT/AmiCompatibilityPkg/Setup/Setup.i",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/PlatformInit/PlatformInitDxe/PlatformInitDxe.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/PlatformInit/PlatformInitDxe/PlatformInitDxe.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Library/PeiPolicyBoardConfigLib/PeiCpuPolicyBoardConfig.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/PlatformInit/PlatformInitDxe/PlatformInitDxe.h",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/PlatformInit/PlatformInit.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiChipsetModulePkg/FIT/Fit.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/Token.mak",
-				"/E/_Code/_Mehlow/_02_MOD/Code/CrbPkg/Crb.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/FlashLayout/FlashLayout.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiChipsetModulePkg/FIT/Boot_Guard_CFL_ACM_QS_SVN0_FdfFileStatement.txt",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Library/BaseSiConfigBlockLib/BaseSiConfigBlockLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Include/ConfigBlock/CpuTxtConfig.h",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/Platform.fdf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/BiosAcm/BiosAcmFdfFileStatement.txt",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Dxe/AmiTxtDxe/SinitAcm/SinitAcmFdfFileStatement.txt",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Setup/PlatformSetup.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/Setup/TcgSetup.sd",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/AmiTxtTcg/AmiTxtTcgPeim.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/AmiTxtTcg/AmiTxtTcgPeim.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Library/PeiPolicyInitLib/PeiPolicyInitPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Library/PeiPolicyBoardConfigLib/PeiCpuPolicyBoardConfigPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/AmiTxtPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm20MfgToolNationZ/Tpm20MfgInitCommands.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm20MfgToolNationZ/Tpm20MfgTool.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm20MfgTool/Tpm20MfgInitCommands.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiTxtLib/PeiTxtLib.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiTxtLib/TxtPeiLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Dxe/AmiTxtDxe/SinitAcm/TxtSinitAcm.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Security/Security.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/AmiTxtPei.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowSvrLenovo.veb",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SiInit/SiInit.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/Token.h",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/MehlowServer/RELEASE_MYTOOLS/X64/AmiModulePkg/OemActivation/OA3/OA3/DEBUG/OA3.map",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/MehlowServer/RELEASE_MYTOOLS/IA32/MdeModulePkg/Core/Pei/PeiMain/DEBUG/PeiCore.map",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/BiosAcm/BiosAcProdRev0110.bin",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/LenovoRestrictedPkg.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SystemAgent/Library/Private/PeiSaInitLib/SaInit.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SystemAgent/Library/PeiSmmAccessLib/PeiSmmAccessLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SiPkg.dec",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Override/AmiModulePkg/CSM/CsmPolicy/CsmPolicy.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/CSM/CsmPolicy/Csm.sd",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MdeModulePkg/Core/Pei/Ppi/Ppi.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/PlatformInit/PlatformInitPei/PlatformInitPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/Usb/Pei/UsbPeim.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/VeBBased/EarlyHotkey/Pei/UsbPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Setup/OptionRomPolicySetup/OpromPolicySetup.sdl",
-				"/E/Work/Sublime Text x64/Data/Packages/SetWindowTitle/set_window_title.py",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/CSM/CsmPolicy/CsmSetup.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/EntryServerPkg/Platform/Pei/Mctp/PchMctp.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Setup/OptionRomPolicySetup/OptionRomPolicy.vfr",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/EntryServerPkg/Platform/Pei/Mctp/PchMctp.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/Private.cif",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/TxtInit/Dxe/TxtDxeLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/TxtInit/Dxe/TxtDxe.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiTxtLib/TxtPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiCpuInitLib/CpuInitPeim.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SiInit/Pei/SiInitPreMem.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/PlatformInit/PlatformInitPei/PlatformInitPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Library/PeiSiPolicyLib/PeiSiPolicyLibPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MdeModulePkg/Core/DxeIplPeim/Ia32/DxeLoadFunc.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiBeforeMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/Setup/TcgPwdTseHook.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/AmiTxtPei.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SiInit/Pei/SiInitPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Setup/SpsSetup.hfr",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Library/PeiSiPolicyLib/PeiSiPolicyLib.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Override/MdeModulePkg/Core/Dxe/Event/Event.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/BiosAcm/BiosAcm.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Setup/MeSetup.uni",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MdePkg/Library/PeiServicesLib/PeiServicesLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiChipsetModulePkg/NB/NbInit/NbPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Include/TxtInfoHob.h",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm12MfgTool/Tpm12MfgTool.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SystemAgent/MemoryInitCfl/Library/Private/PeiMemoryInitLib/MemoryInit.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Library/BaseEcLib/BaseEcLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/MehlowPlatSamplePkg/PlatformInit/PlatformInitDxe/PlatformInitDxe.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/FspWrapper/Library/PeiFspPolicyInitLib/PeiFspSecurityPolicyInitLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Tcg.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Library/PeiPolicyUpdateLib/PeiCpuPolicyUpdatePreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/FspWrapper/Library/PeiFspPolicyInitLib/PeiFspPolicyInitLibPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiChipsetModulePkg/FIT/Pei/BootGuardTPMPei/BootGuardTPMPei.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Setup/OptionRomPolicySetup/OptionRomPolicy.sd",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/RemotePhysPresence/RemotePhysPresenceConfigDriver.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/ImmV3Module/ImmCommands/Smm/ImmCommandsSmm.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/RemotePhysPresence/RemotePhysPresenceConfig.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Setup/CpuSetup.hfr",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Setup/OptionRomPolicySetup/OptionRomPolicy.uni",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm20MfgTool/Tpm20MfgTool.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/TcgSetup/TcgSetupCallback.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/Platform.dsc",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Override/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiAfterMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/TcgSetup/TcgSetupVfr.vfr",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Setup/CpuSetup.uni",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/TpmVersionToggling/TpmVersionToggling.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Bin/Security/SecurityBinary.cif",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiPkg/Configuration/Configuration.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/TcgPei/TcgTcmPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Override/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTpm20PlatformPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/CpuInit/Dxe/SoftwareGuard.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/TpmVersionToggling/TPMVersionTogglingDxe.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiAfterMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTpm20PlatformPei.c",
-				"/E/_Code/_Purley/_Code/_01ORG_AEP/Code/PurleyLenovo.veb",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Platform/PlatformSetup/Dxe/PlatformSetup.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiDxeSoftwareGuardLib/PeiDxeSoftwareGuardLib.c"
+				"/E/_Code/_Whitley/_02_MOD/LenovoCorePkg/Library/LenovoDebugPrintErrorLevelLib/LenovoDebugPrintErrorLevelLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/LenovoRtRasLib/LenovoMemRasRoutines.c",
+				"/E/_Code/_Whitley/_02_MOD/WhitleyLenovoPkg/WhitleyLenovoPkg.cif",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/NVRAM/NvramDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/NVRAM/NvramSmi.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgGetCapabilities.c",
+				"/E/_Code/_Whitley/_02_MOD/ServerPlatformPkg/Library/OtaDxeLib/DxeOneTouchPlatform.c",
+				"/E/_Code/_Whitley/_02_MOD/MdePkg/Include/IndustryStandard/Tpm12.h",
+				"/E/_Code/_Whitley/_02_MOD/WhitleyLenovoPkg/Platform/Dxe/Setup/DxePlatform.inf",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/Tpm75xFWToggling/Tpm75xTogglingDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgUCMSetupVfr.vfr",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetupCallback.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/TpmNvmeSupport/TpmNvmeSupport.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/TCGSmm/TCGSmm.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoCorePkg/Override/AmiModulePkg/NVRAM/NvramSmm.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/AmiDep/AmiStatusCode/StatusCodeCommon.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/Tpm20PlatformDxe/Tpm20PlatformDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/AmiTcgPlatformDxe/AmiTcgPlatformDxeLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TpmVersionTogglingCallback.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetupStrings.uni",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetup.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Override/AmiModulePkg/TCG2/Common/Tpm20PlatformDxe/Tpm20PlatformDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/Build/Token.mak",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/NVRAM/NvramSmmWrapper.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/TpmVersionTogglingSupportLib/TpmVersionTogglingSupportLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoCorePkg/Override/AmiModulePkg/NVRAM/NvramDxeCommon.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/Tpm2CommandLib/Tpm2Hierarchy.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/TpmClearOnRollback/TpmClearOnRollbackMain.inf",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/Tpm75xFWToggling/Tpm75xTogglingDxe.h",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/SecureBoot/SecureBoot.sd",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/LenovoRestrictedPkg.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/SecureBoot/LenovoStyleSecureBootSetup/LenovoStyleSecureBootSetup.sdl",
+				"/E/_Code/_Whitley/_02_MOD/AmiTsePkg/Core/em/AMITSE/AMITSE.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Override/AmiModulePkg/SecureBoot/SecureBoot.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/LenovoStyle/Setup.vfr",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/LenovoStyle/SpecialPageHandler.c",
+				"/E/_Code/_Whitley/_02_MOD/MdeModulePkg/Library/UefiHiiLib/HiiLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/SecureBoot/LenovoStyleSecureBootSetup/LenovoStyleSecureBootSetup.sd",
+				"/E/_Code/_Whitley/_02_MOD/AmiCompatibilityPkg/Setup/Setup.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/SecureBoot/SecureBootHook/SecureBootHook.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/LenovoStyle/LenovoStyleSetup.sd",
+				"/E/_Code/_Whitley/_02_MOD/AmiTsePkg/EDK/MiniSetup/uefi2.1/HiiCallback.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiTsePkg/EDK/MiniSetup/BootOnly/minisetup.h",
+				"/E/_Code/_Whitley/_02_MOD/WilsonCitySkx/WilsonCitySkx.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetupVfr.vfr",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/VeBBased/EarlyHotkey/EarlyHotkeyUsbIo.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoCorePkg/Include/SecurityCommon.h",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/VeBBased/EarlyHotkey/Pei/UsbPei.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/AmiTcgPlatformDxe/AmiTcgPlatformDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/ServerPlatformPkg/Platform/Dxe/SocketSetup/ProcessorSetupStrings.uni",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgPlatformSetupPeiPolicy/TcgPlatformSetupPeiPolicy.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/NuvotonTpm75x12Prov/NuvotonTpm75x12Prov.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/Tpm75xFWToggling/Tpm75xTogglingDxe.inf",
+				"/E/_Code/_Whitley/_02_MOD/ServerPlatformPkg/Platform/Dxe/SocketSetup/ProcessorSetup.hfr",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedBinPkg/Library/Tpm2CommandLib/Tpm2CommandLib.inf",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/Tpm2CommandLib/Tpm2CommandLib.sdl",
+				"/E/_Code/_Whitley/_02_MOD/Build/Platform.fdf",
+				"/E/_Code/_Whitley/_02_MOD/Build/Platform.dsc",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Include/Library/TPMVersionTogglingSupportLib.h",
+				"/E/_Code/_Purley/_Code/_01_GA/Code/PurleyLenovo.sdl",
+				"/E/_Code/_Purley/_Code/_01_GA/Code/PurleySktPkg/Me/MePkg.sdl",
+				"/E/_Code/_Purley/_Code/_01_GA/Code/PurleyPlatPkg/Me/MePkg.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/LenovoDebugPrintErrorLevelLib/LenovoDebugPrintErrorLevelLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/PtuBdsElinkLib/PtuBdsElinkLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/SecureBoot/SecureBootUCM/SecureBootUcm.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/AmiStatusCode/StatusCodeCommon.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Include/Guid/PhysicalPresenceData.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/Tpm20PhysicalPresence/Tpm20PhysicalPresence.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Library/Tpm2PhysicalPresenceLib/Tpm2PhysicalPresenceLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Library/Tpm2PolicyAssertionLib/Tpm2PolicyAssertionLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiIntelCpuPkg/Microcode/ServWork/M1050665_0E00000A.mcb",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/CSM/CsmPolicy/CsmPolicy.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/ImmV3Module/VgpioImmStatusCode/Dxe/VgpioImmStatusCodeDxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/SecureBoot/AuthenticatedVariable/AuthService.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/LenovoSecurityVariableHook.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/SecureBoot/SecureBootCore.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformDxe/AmiTcgPlatformDxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/SecureBoot/LenovoAuthVariableLink/LenovoAuthVariableLink.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/PurleyLenovoPkg/OptionRomPolicy/OptionRomPolicy.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/MdePkg/Include/IndustryStandard/TcgPhysicalPresence.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/TrEESmm/TrEESmm.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/Include/AmiTcg/TcgPc.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/TCG2/Tcg.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/PurleyPlatPkg/Platform/Dxe/Hsti/HstiIhvProviderDxe/MeasuredBootEnforcement.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/TCG2/Common/TcgDxe/Tcg2Dxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/TCG2/Common/TcgDxe/Tcg2Dxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/TCG2/Common/Tpm20PlatformDxe/Tpm20PlatformDxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/MdePkg/Include/IndustryStandard/UefiTcgPlatform.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/Include/AmiTcg/TcgEFI12.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/Tpm20PlatformDxe/Tpm20PlatformDxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/PurleySktPkg/Me/PtuLoader/PtuLoader.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/PtuSupportLib/PtuSupportLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Include/SecurityCommon.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/NVRAM/NvramSmi.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/NVRAM/NvramSmm.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/NVRAM/NvramDxeCommon.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/Security.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/PurleyLenovo.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/InstallPlatformKey/PlatformKey.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/InstallPlatformKey/InstallPlatformKey.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Library/PlatformTestKey/PlatformTestKey.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/InstallPlatformKey/InstallTestKey.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/Build/Platform.fdf",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/InstallPlatformKey/InstallTestKey.inf",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/LenovoCorePkg.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/PartitionDxe/Gpt.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/GPTRecoveryPolicyLib/GPTRecoveryPolicyLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/DriverHealth/DriverHealth.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/Build/Token.mak",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiChipsetModulePkg/BiosGuard/BiosGuardPubKeysAndBuildPSL/BiosGuardPubKeysAndBuildPSL.mak",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/DriverHealthCheckLib/DriverHealthCheckLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/DriverHealth/DriverHealthCheckDxe/DriverHealthCheck.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/StatusCodeUserStringMap.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/TcgSetup/TcgSetupCallback.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/TcgPlatformSetupPolicy/TcgPlatformSetupPolicy.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/TcgPlatformSetupPeiPolicy/TcgPlatformSetupPeiPolicy.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiAfterMem.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/ConfigMgmt/Ucm/Ucm.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/Original/AmiModulePkg/TCG2/Common/TcgDxe/Tcg2Dxe.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/ConfigMgmt/SystemOobCustom/SystemOobCustom.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Tcg.sdl",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/CRB_lib/Tpm20CRBLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/AmiDep/AmiStatusCode/StatusCodeAmi.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetupStrings.c",
+				"/E/_Code/_Whitley/_02_MOD/WilsonCityIcx/WilsonCityIcx.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/NuvotonTpm75x20Prov/NuvotonTpm75x20ProvCmd.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/Tpm2PolicyAssertionLib/Tpm2PolicyAssertionLib.c",
+				"/E/_Code/_Whitley/_02_MOD/WhitleyRpPkg/Include/Uba/PlatformData/AbyssDeviceString.h"
 			],
 			"find":
 			{
-				"height": 42.0
+				"height": 39.0
 			},
 			"find_in_files":
 			{
-				"height": 110.0,
+				"height": 137.0,
 				"where_history":
 				[
 				]
@@ -434,22 +829,11 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"selection",
-					"fing",
-					"match",
-					"find",
-					"section",
-					"match",
-					"math",
-					"selection",
-					"Highlight",
-					"WordHighlight",
-					"PciBusStart"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
 				],
@@ -461,25 +845,29 @@
 			},
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 29.0
 			},
 			"input":
 			{
-				"height": 38.0
+				"height": 41.0
 			},
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 132.0
+				"height": 315.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.git-pull":
+			{
+				"height": 150.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -489,24 +877,344 @@
 				"selected_items":
 				[
 					[
+						".dsc",
+						"Build\\Platform.dsc"
+					],
+					[
+						"NVRAMSMM",
+						"LenovoCorePkg\\Override\\AmiModulePkg\\NVRAM\\NvramSmm.c"
+					],
+					[
 						"pcibus.c",
 						"AmiModulePkg\\PCI\\PciBus.c"
+					],
+					[
+						"whitleyLenovo",
+						"WhitleyLenovo.cif"
+					],
+					[
+						"tpm12.h",
+						"MdePkg\\Include\\IndustryStandard\\Tpm12.h"
+					],
+					[
+						"token.mak",
+						"Build\\Token.mak"
+					],
+					[
+						"statuscodecomm",
+						"LenovoFamilyPkg\\AmiDep\\AmiStatusCode\\StatusCodeCommon.c"
+					],
+					[
+						"togglings",
+						"LenovoRestrictedPkg\\Library\\TpmVersionTogglingSupportLib\\TpmVersionTogglingSupportLib.c"
+					],
+					[
+						"tcgucm.",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TcgUCMSetupVfr.vfr"
+					],
+					[
+						"tcgsetupcallback",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TcgSetupCallback.c"
+					],
+					[
+						"tcgcallback",
+						"AmiModulePkg\\TCG2\\Common\\TpmClearOnRollback\\TpmClearOnRollbackMain.inf"
+					],
+					[
+						"SECUREBOOTHOOK.C",
+						"LenovoFamilyPkg\\Security\\SecureBoot\\SecureBootHook\\SecureBootHook.c"
+					],
+					[
+						"tpm20platformDxe.c",
+						"LenovoFamilyPkg\\Override\\AmiModulePkg\\TCG2\\Common\\Tpm20PlatformDxe\\Tpm20PlatformDxe.c"
+					],
+					[
+						"setup.c",
+						"AmiCompatibilityPkg\\Setup\\Setup.c"
+					],
+					[
+						"secureboot.c",
+						"LenovoFamilyPkg\\Override\\AmiModulePkg\\SecureBoot\\SecureBoot.c"
+					],
+					[
+						"lenovostylesecure",
+						"LenovoFamilyPkg\\Security\\SecureBoot\\LenovoStyleSecureBootSetup\\LenovoStyleSecureBootSetup.sd"
+					],
+					[
+						"SECUREBOOT.SD",
+						"AmiModulePkg\\SecureBoot\\SecureBoot.sd"
+					],
+					[
+						"togglinglib.c",
+						"LenovoRestrictedPkg\\Library\\TpmVersionTogglingSupportLib\\TpmVersionTogglingSupportLib.c"
+					],
+					[
+						"toggling",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TpmVersionTogglingCallback.c"
+					],
+					[
+						"tcgsetup.c",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TcgSetup.c"
+					],
+					[
+						"usbpei",
+						"LenovoFamilyPkg\\VeBBased\\EarlyHotkey\\Pei\\UsbPei.c"
+					],
+					[
+						"",
+						"LenovoRestrictedPkg\\Security\\Tpm75xFWToggling\\Tpm75xTogglingDxe.c"
+					],
+					[
+						"Tpm2CommandLib",
+						"LenovoRestrictedPkg\\Library\\Tpm2CommandLib\\Tpm2CommandLib.sdl"
+					],
+					[
+						"Tpm2command",
+						"LenovoRestrictedBinPkg\\Library\\Tpm2CommandLib\\Tpm2CommandLib.inf"
+					],
+					[
+						"processor.hfr",
+						"ServerPlatformPkg\\Platform\\Dxe\\SocketSetup\\ProcessorSetup.hfr"
+					],
+					[
+						"togglingc",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TpmVersionTogglingCallback.c"
 					],
 					[
 						".fdf",
 						"Build\\Platform.fdf"
 					],
 					[
-						"crb.sdl",
-						"CrbPkg\\Crb.sdl"
-					],
-					[
-						"amitxtpei.c",
-						"AmiCpuModulePkg\\Pei\\AmiTxtPei\\AmiTxtPei.c"
+						"togglingsu.c",
+						"LenovoRestrictedPkg\\Library\\TpmVersionTogglingSupportLib\\TpmVersionTogglingSupportLib.c"
 					],
 					[
 						".veb",
 						"MehlowSVR.veb"
+					],
+					[
+						"MePkg.sdl",
+						"PurleyPlatPkg\\Me\\MePkg.sdl"
+					],
+					[
+						"amt.sdl",
+						"PurleyPlatPkg\\Me\\AMT\\AMT.sdl"
+					],
+					[
+						"plt4.c",
+						"AmiModulePkg\\IO\\Pilot4\\Pilot4.cif"
+					],
+					[
+						"earlyvideo.c",
+						"LenovoCorePkg\\Video\\Pei\\EarlyVideo.c"
+					],
+					[
+						"debugprinterrorlevel.c",
+						"LenovoCorePkg\\Library\\LenovoDebugPrintErrorLevelLib\\LenovoDebugPrintErrorLevelLib.c"
+					],
+					[
+						"BDselinklib",
+						"LenovoCorePkg\\Library\\PtuBdsElinkLib\\PtuBdsElinkLib.c"
+					],
+					[
+						"processor.vf",
+						"LenovoFamilyPkg\\Setup\\ProcessorSetup\\ProcessorSetupVfr.vfr"
+					],
+					[
+						"statuscodecommon.c",
+						"LenovoCorePkg\\AmiStatusCode\\StatusCodeCommon.c"
+					],
+					[
+						"securebootu",
+						"LenovoCorePkg\\Security\\SecureBoot\\SecureBootUCM\\SecureBootUcm.c"
+					],
+					[
+						"IntelNvmDimm.inf",
+						"LenovoRestrictedPkg\\IntelNvmDimm\\IntelNvmDimm.inf"
+					],
+					[
+						"security.mak",
+						"LenovoRestrictedPkg\\Security\\Security.mak"
+					],
+					[
+						"ubamain",
+						"PurleyRpPkg\\Uba\\UbaMain\\Pei\\UbaMainPei.c"
+					],
+					[
+						"PtuSupportLib.inf",
+						"LenovoCorePkg\\Library\\PtuSupportLib\\PtuSupportLib.inf"
+					],
+					[
+						"tcgcall",
+						"LenovoRestrictedPkg\\Security\\TcgSetup\\TcgSetupCallback.c"
+					],
+					[
+						"05E",
+						"AmiIntelCpuPkg\\Microcode\\ServWork\\M1050665_0E00000A.mcb"
+					],
+					[
+						"Tcg2Dxe.c",
+						"AmiModulePkg\\TCG2\\Common\\TcgDxe\\Tcg2Dxe.c"
+					],
+					[
+						"physicalpresence.h",
+						"MdePkg\\Include\\IndustryStandard\\TcgPhysicalPresence.h"
+					],
+					[
+						"oprompolicy.c",
+						"PurleyLenovoPkg\\OptionRomPolicy\\OptionRomPolicy.c"
+					],
+					[
+						"ucm.c",
+						"LenovoCorePkg\\ConfigMgmt\\Ucm\\Ucm.c"
+					],
+					[
+						"secureboothook",
+						"LenovoCorePkg\\Security\\SecureBoot\\LenovoAuthVariableLink\\LenovoAuthVariableLink.c"
+					],
+					[
+						"ptu",
+						"LenovoCorePkg\\Library\\PtuSupportLib\\PtuSupportLib.c"
+					],
+					[
+						"nvramSMM",
+						"AmiModulePkg\\NVRAM\\NvramSmm.c"
+					],
+					[
+						"nvrasmi.c",
+						"AmiModulePkg\\NVRAM\\NvramSmi.c"
+					],
+					[
+						"InstallTestKey.inf",
+						"LenovoRestrictedPkg\\Security\\InstallPlatformKey\\InstallTestKey.inf"
+					],
+					[
+						"gptrecovery",
+						"LenovoCorePkg\\Library\\GPTRecoveryPolicyLib\\GPTRecoveryPolicyLib.c"
+					],
+					[
+						"gpt.c",
+						"LenovoCorePkg\\PartitionDxe\\Gpt.c"
+					],
+					[
+						"tpm20physicalpresence.c",
+						"LenovoRestrictedPkg\\Security\\Tpm20PhysicalPresence\\Tpm20PhysicalPresence.c"
+					],
+					[
+						"physicalpresence",
+						"LenovoRestrictedPkg\\Security\\Tpm20PhysicalPresence\\Tpm20PhysicalPresence.c"
+					],
+					[
+						"tpm20mfg",
+						"LenovoRestrictedPkg\\Security\\Tpm20MfgToolNationZ\\Tpm20MfgTool.c"
+					],
+					[
+						"tpm20pla",
+						"AmiModulePkg\\TCG2\\Common\\Tpm20PlatformDxe\\Tpm20PlatformDxe.c"
+					],
+					[
+						"Statuscodecommon.c",
+						"LenovoFamilyPkg\\AmiDep\\AmiStatusCode\\StatusCodeCommon.c"
+					],
+					[
+						"devicestring",
+						"WhitleyRpPkg\\Include\\Uba\\PlatformData\\AbyssDeviceString.h"
+					],
+					[
+						"token.h",
+						"Build\\Token.h"
+					],
+					[
+						"statuscodeommon. c",
+						"LenovoFamilyPkg\\AmiDep\\AmiStatusCode\\StatusCodeCommon.c"
+					],
+					[
+						"PerfMon.inf",
+						"LenovoCorePkg\\BootPerformance\\PerfMon\\PerfMon.inf"
+					],
+					[
+						"bootper",
+						"LenovoCorePkg\\BootPerformance\\BootPerformance.cif"
+					],
+					[
+						"devicestr",
+						"WhitleyRpPkg\\Include\\Uba\\PlatformData\\AbyssDeviceString.h"
+					],
+					[
+						"SetupDeviceIOTable.h",
+						"WhitleyRpPkg\\Uba\\UbaMain\\TypeAbyss\\Pei\\SetupDeviceIOTable.h"
+					],
+					[
+						"lenovofa",
+						"LenovoFamilyPkg\\LenovoFamilyPkg.sdl"
+					],
+					[
+						"crb.sdl",
+						"CrbPkg\\Crb.sdl"
+					],
+					[
+						"PeiCpuPolicyUpdate.c",
+						"Intel\\MehlowPlatSamplePkg\\Library\\PeiPolicyUpdateLib\\PeiCpuPolicyUpdate.c"
+					],
+					[
+						"PlatformInit.inf",
+						"Intel\\CannonLakePlatSamplePkg\\PlatformInit\\PlatformInitPei\\PlatformInit.inf"
+					],
+					[
+						"BoardInitLib.inf",
+						"Intel\\CannonLakePlatSamplePkg\\Board\\Others\\DxeBoardInitLib\\BoardInitLib.inf"
+					],
+					[
+						"TOKEN.MAK",
+						"Build\\Token.mak"
+					],
+					[
+						"TrEESmm.inf",
+						"Build\\HODAKA\\RELEASE_MYTOOLS\\X64\\LenovoRestrictedPkg\\Security\\TrEESmm\\TrEESmm\\OUTPUT\\TrEESmm.inf"
+					],
+					[
+						"treesmm.c",
+						"LenovoRestrictedPkg\\Security\\TrEESmm\\TrEESmm.c"
+					],
+					[
+						"SecureBootUcmVfr.vfr",
+						"LenovoCorePkg\\Security\\SecureBoot\\SecureBootUCM\\SecureBootUcmVfr.vfr"
+					],
+					[
+						"bootp",
+						"LenovoCorePkg\\BootPerformance\\BootPerformance.cif"
+					],
+					[
+						"secureboot_lenovo.c",
+						"LenovoCorePkg\\Security\\SecureBoot\\SecureBootSetup\\SecureBoot_Lenovo.c"
+					],
+					[
+						"lenovodebugprint",
+						"LenovoCorePkg\\Library\\LenovoDebugPrintErrorLevelLib\\LenovoDebugPrintErrorLevelLib.c"
+					],
+					[
+						"lenovodebugcin.c",
+						"LenovoCorePkg\\Library\\LenovoDebugConfigLib\\LenovoDebugConfigLib.c"
+					],
+					[
+						"deviceiose",
+						"LenovoFamilyPkg\\Setup\\DeviceIoSetup\\DeviceIoSetup.c"
+					],
+					[
+						"secureboot_lenovo.sd",
+						"LenovoCorePkg\\Security\\SecureBoot\\SecureBootSetup\\SecureBoot_Lenovo.sd"
+					],
+					[
+						"tpm.asl",
+						"LenovoRestrictedPkg\\Security\\TrEESmm\\Tpm.asl"
+					],
+					[
+						"csmpolicy.c",
+						"LenovoFamilyPkg\\Override\\AmiModulePkg\\CSM\\CsmPolicy\\CsmPolicy.c"
+					],
+					[
+						"amitxtpei.c",
+						"AmiCpuModulePkg\\Pei\\AmiTxtPei\\AmiTxtPei.c"
 					],
 					[
 						"amipciplatform.cif",
@@ -515,10 +1223,6 @@
 					[
 						"amipcipla",
 						"AmiChipsetModulePkg\\SB\\AmiPciPlatform\\AmiPciPlatform.cif"
-					],
-					[
-						"token.mak",
-						"Build\\Token.mak"
 					],
 					[
 						"biosacm.sdl",
@@ -539,14 +1243,6 @@
 					[
 						"sbcspde",
 						"AmiChipsetModulePkg\\Library\\SbCspIoDecodeLib\\SbCspIoDecodeLib.c"
-					],
-					[
-						".dsc",
-						"Build\\Platform.dsc"
-					],
-					[
-						"token.h",
-						"Build\\Token.h"
 					],
 					[
 						".vfr",
@@ -575,10 +1271,6 @@
 					[
 						"sinitacmfdffilestatement.txt",
 						"AmiCpuModulePkg\\Dxe\\AmiTxtDxe\\SinitAcm\\SinitAcmFdfFileStatement.txt"
-					],
-					[
-						"tpm20mfg",
-						"LenovoRestrictedPkg\\Security\\Tpm20MfgToolNationZ\\Tpm20MfgTool.c"
 					],
 					[
 						"flashla",
@@ -649,10 +1341,6 @@
 						"Intel\\CannonLakeSiliconPkg\\Cpu\\TxtInit\\Dxe\\TxtDxe.c"
 					],
 					[
-						"",
-						"LenovoRestrictedPkg\\Security\\Tpm20MfgTool\\Tpm20MfgInitCommands.c"
-					],
-					[
 						"oprompolicy.sd",
 						"LenovoFamilyPkg\\Setup\\OptionRomPolicySetup\\OptionRomPolicy.sd"
 					],
@@ -663,10 +1351,6 @@
 					[
 						"amitcgplatformpeiaftermem.c",
 						"LenovoCorePkg\\Override\\AmiModulePkg\\TCG2\\Common\\AmiTcgPlatformPei\\AmiTcgPlatformPeiAfterMem.c"
-					],
-					[
-						"toggling",
-						"LenovoRestrictedPkg\\Security\\TpmVersionToggling\\TpmVersionToggling.cif"
 					],
 					[
 						"acpiplatform.c",
@@ -693,10 +1377,6 @@
 						"AmiCpuModulePkg\\Dxe\\AmiTxtDxe\\SinitAcm\\SinitAcProdRev0120.bin"
 					],
 					[
-						"statuscodecommon.c",
-						"LenovoCorePkg\\AmiStatusCode\\StatusCodeCommon.c"
-					],
-					[
 						"gpioprivatelib.c",
 						"Intel\\CannonLakeSiliconPkg\\Pch\\Library\\Private\\PeiDxeSmmGpioPrivateLib\\GpioPrivateLib.c"
 					],
@@ -707,298 +1387,6 @@
 					[
 						"a0327fe0-1fda-4e5b-905d-b510c45a61d0",
 						"Build\\a0327fe0-1fda-4e5b-905d-b510c45a61d0.txt"
-					],
-					[
-						"pcisdl.c",
-						"Build\\PCIBRDSDL.c"
-					],
-					[
-						"mehlowlenovo",
-						"MehlowLenovoPkg\\MehlowLenovoPkg.sdl"
-					],
-					[
-						"csmpolicy",
-						"AmiModulePkg\\CSM\\CsmPolicy\\CsmPolicy.inf"
-					],
-					[
-						"csmpolicy.inf",
-						"AmiModulePkg\\CSM\\CsmPolicy\\CsmPolicy.inf"
-					],
-					[
-						"nb.sdl",
-						"AmiChipsetModulePkg\\Nb.sdl"
-					],
-					[
-						"csmpolicy.c",
-						"LenovoFamilyPkg\\Override\\AmiModulePkg\\CSM\\CsmPolicy\\CsmPolicy.c"
-					],
-					[
-						"sdl.c",
-						"Build\\APICBRDSDL.c"
-					],
-					[
-						"dsdtasl.iiii",
-						"Build\\MehlowServer\\RELEASE_MYTOOLS\\X64\\Build\\DsdtAsl\\OUTPUT\\AmiModulePkg\\ACPI\\DsdtAsl.iiii"
-					],
-					[
-						"a0327fe0",
-						"Build\\a0327fe0-1fda-4e5b-905d-b510c45a61d0.txt"
-					],
-					[
-						"a0327fe0-1fda-4e5b-905d-b510c45a61d0.txt",
-						"Build\\a0327fe0-1fda-4e5b-905d-b510c45a61d0.txt"
-					],
-					[
-						"pciromtemplate.txt",
-						"AmiModulePkg\\BoardInfo\\PciRomTemplate.txt"
-					],
-					[
-						"oprompolicu",
-						"LenovoFamilyPkg\\Setup\\OptionRomPolicySetup\\OpromPolicySetup.c"
-					],
-					[
-						"uefivideo",
-						"AmiModulePkg\\CSM\\CsmVideo\\UefiBiosVideo.c"
-					],
-					[
-						"csmvideo",
-						"AmiModulePkg\\CSM\\CsmVideo\\CsmVideo.inf"
-					],
-					[
-						"bootmodelib.h",
-						"LenovoCorePkg\\Include\\Library\\BootModeLib.h"
-					],
-					[
-						"lenovo12.sdl",
-						"LenovoCorePkg\\LenovoBootManager\\LenovoF12\\LenovoF12.sdl"
-					],
-					[
-						"lenovof12bds",
-						"LenovoCorePkg\\LenovoBootManager\\LenovoF12\\LenovoF12Bds.c"
-					],
-					[
-						"gpt.c",
-						"MdeModulePkg\\Universal\\Disk\\PartitionDxe\\Gpt.c"
-					],
-					[
-						"oprompolicy.c",
-						"PurleyLenovoPkg\\OptionRomPolicy\\OptionRomPolicy.c"
-					],
-					[
-						"pmcprivatelib.c",
-						"Intel\\CannonLakeSiliconPkg\\Pch\\Library\\Private\\PeiDxeSmmPmcPrivateLib\\PmcPrivateLib.c"
-					],
-					[
-						"gpiotablemossbeach.h",
-						"MehlowLenovoPkg\\Board\\Others\\PeiBoardInitLib\\GpioTableMossBeach.h"
-					],
-					[
-						"verifyfwcapsulepeilib.inf",
-						"AmiModulePkg\\SecureFlash\\SecFlashUpd\\VerifyFwCapsulePeiLib.inf"
-					],
-					[
-						"fsrecovery.c",
-						"AmiModulePkg\\Recovery\\FsRecovery\\FsRecovery.c"
-					],
-					[
-						"fsrecovery",
-						"AmiModulePkg\\Recovery\\FsRecovery\\FsRecovery.c"
-					],
-					[
-						"devicestring.h",
-						"PurleyLenovoPkg\\Include\\Uba\\PlatformData\\CableDeviceString.h"
-					],
-					[
-						"gpio",
-						"MehlowLenovoPkg\\Board\\Others\\PeiBoardInitLib\\GpioTableMossBeach.h"
-					],
-					[
-						"tpmtcmpolicyinit",
-						"LenovoFamilyPkg\\Security\\TpmTcmPolicyInit\\Pei\\TpmTcmPolicyInit.c"
-					],
-					[
-						"uefispec.h",
-						"MdePkg\\Include\\Uefi\\UefiSpec.h"
-					],
-					[
-						"uefibasetype.h",
-						"MdePkg\\Include\\Uefi\\UefiBaseType.h"
-					],
-					[
-						"uefi.h",
-						"MdePkg\\Include\\Uefi.h"
-					],
-					[
-						"hiilib.c",
-						"MdeModulePkg\\Library\\UefiHiiLib\\HiiLib.c"
-					],
-					[
-						"peicpupolicyupdatepremem.c",
-						"MehlowLenovoPkg\\Library\\PeiPolicyUpdateLib\\PeiCpuPolicyUpdatePreMem.c"
-					],
-					[
-						"txtdxe",
-						"Intel\\CannonLakeSiliconPkg\\Cpu\\TxtInit\\Dxe\\TxtDxe.c"
-					],
-					[
-						"lenovobootmanagertse.c",
-						"LenovoCorePkg\\LenovoBootManager\\TSE\\LenovoBootManagerTse.c"
-					],
-					[
-						"lenovorestrictedpkg",
-						"LenovoRestrictedPkg\\LenovoRestrictedPkg.sdl"
-					],
-					[
-						"tcgsetupvfr.vfr",
-						"LenovoRestrictedPkg\\Security\\TcgSetup\\TcgSetupVfr.vfr"
-					],
-					[
-						"tpmtcmpolicysettingsmmlib.inf",
-						"LenovoCorePkg\\Bin\\LibraryBinary\\TpmTcmPolicySettingSmmLib.inf"
-					],
-					[
-						"tcgsetup.sd",
-						"AmiModulePkg\\TCG2\\Common\\Setup\\TcgSetup.sd"
-					],
-					[
-						"statuscode.sdl",
-						"LenovoCorePkg\\AmiStatusCode\\StatusCodeAmi.sdl"
-					],
-					[
-						"boot_guard_cfl_acm_3909_es_0.5.bin",
-						"AmiChipsetModulePkg\\FIT\\Boot_Guard_CFL_ACM_3909_ES_0.5.bin"
-					],
-					[
-						"boot_guard_cfl_acm_es_svn0_fdffilestatement.txt",
-						"AmiChipsetModulePkg\\FIT\\Boot_Guard_CFL_ACM_ES_SVN0_FdfFileStatement.txt"
-					],
-					[
-						"/biosacdbgrev0060.bin",
-						"AmiCpuModulePkg\\Pei\\AmiTxtPei\\BiosAcm\\BiosAcDbgRev0060.bin"
-					],
-					[
-						"biosacdbgrev0060.bin",
-						"AmiCpuModulePkg\\Pei\\AmiTxtPei\\BiosAcm\\BiosAcDbgRev0060.bin"
-					],
-					[
-						"fittable.com",
-						"Build\\MehlowServer\\DEBUG_MYTOOLS\\X64\\AmiChipsetModulePkg\\FIT\\FitTable\\OUTPUT\\FitTable.com"
-					],
-					[
-						"fittablefdffilestatement.txt",
-						"AmiChipsetModulePkg\\FIT\\FitTableFdfFileStatement.txt"
-					],
-					[
-						"fit",
-						"AmiChipsetModulePkg\\FIT\\FitTable.asm16"
-					],
-					[
-						"nationz",
-						"LenovoCorePkg\\Library\\NationZTPM20Lib\\NationZTPM20Lib.c"
-					],
-					[
-						"mrcinter",
-						"Intel\\CannonLakeSiliconPkg\\SystemAgent\\MemoryInit\\Include\\Coffeelake\\MrcInterface.h"
-					],
-					[
-						"mrcinterface.h",
-						"Intel\\CannonLakeSiliconPkg\\SystemAgent\\MemoryInit\\Include\\Coffeelake\\MrcInterface.h"
-					],
-					[
-						"mrcinterface",
-						"Intel\\CannonLakeSiliconPkg\\SystemAgent\\MemoryInit\\Include\\MrcInterface.h"
-					],
-					[
-						"platforminitpremem.c",
-						"MehlowLenovoPkg\\PlatformInit\\PlatformInitPei\\PlatformInitPreMem.c"
-					],
-					[
-						"setupitems.h",
-						"MehlowLenovoPkg\\Setup\\SetupItems.h"
-					],
-					[
-						"otherboardconfigpatchtable.h",
-						"Intel\\MehlowPlatSamplePkg\\Board\\Include\\OtherBoardConfigPatchTable.h"
-					],
-					[
-						"platform.dsc",
-						"Build\\Platform.dsc"
-					],
-					[
-						"crb.mak",
-						"CrbPkg\\Crb.mak"
-					],
-					[
-						"vfrparser.cif",
-						"MehlowLenovoPkg\\Setup\\VfrParser\\VfrParser.cif"
-					],
-					[
-						"setup.vfr",
-						"LenovoFamilyPkg\\LenovoStyle\\Setup.vfr"
-					],
-					[
-						"optionrompolicy.sd",
-						"PurleyLenovoPkg\\OptionRomPolicy\\OptionRomPolicy.sd"
-					],
-					[
-						"string.c",
-						"MdePkg\\Library\\BaseLib\\String.c"
-					],
-					[
-						"amilanguagedefinitions.uni",
-						"AmiPkg\\Include\\AmiLanguageDefinitions.uni"
-					],
-					[
-						"languages.uni",
-						"Build\\Languages.uni"
-					],
-					[
-						"vfr.uni",
-						"AmiCompatibilityPkg\\Include\\VFR.uni"
-					],
-					[
-						"oprompolicy",
-						"PurleyLenovoPkg\\OptionRomPolicy\\OptionRomPolicy.c"
-					],
-					[
-						"csmsetup.c",
-						"LenovoFamilyPkg\\Setup\\CsmSetup\\CsmSetup.c"
-					],
-					[
-						"tcgs",
-						"LenovoRestrictedPkg\\Security\\TcgSetup\\TcgSetupStrings.c"
-					],
-					[
-						"tpmlock.inf",
-						"LenovoRestrictedPkg\\Security\\Tools\\TpmLock\\TpmLock.inf"
-					],
-					[
-						"sbruntimeservicelib.c",
-						"LenovoFamilyPkg\\Override\\AmiChipsetModulePkg\\Library\\SbRuntimeServiceLib\\SbRuntimeServiceLib.c"
-					],
-					[
-						"lept",
-						"LenovoCorePkg\\PostScreen\\LeptBoot\\LEPTBootLib.c"
-					],
-					[
-						"uefivideo.c",
-						"AmiModulePkg\\CSM\\CsmVideo\\UefiBiosVideo.c"
-					],
-					[
-						"debuglevel",
-						"LenovoCorePkg\\Library\\LenovoDebugPrintErrorLevelLib\\LenovoDebugPrintErrorLevelLib.c"
-					],
-					[
-						"graphicsoutput.h",
-						"MdePkg\\Include\\Protocol\\GraphicsOutput.h"
-					],
-					[
-						"gptrecovery",
-						"LenovoCorePkg\\Library\\GPTRecoveryPolicyLib\\GPTRecoveryPolicyLib.c"
-					],
-					[
-						"platformpkg.dec",
-						"Intel\\CannonLakePlatSamplePkg\\PlatformPkg.dec"
 					]
 				],
 				"width": 0.0
@@ -1041,16 +1429,32 @@
 				"selected_items":
 				[
 					[
+						"Tar",
+						"TargetH"
+					],
+					[
+						"LenovoDynaic",
+						"LenovoDynamicDebug_FORCE_ASSERT"
+					],
+					[
+						"Ta",
+						"TargetH"
+					],
+					[
+						"Val",
+						"Value"
+					],
+					[
+						"EFI",
+						"EFI_SUCCESS"
+					],
+					[
 						"LENOVO",
 						"LENOVO_PORT"
 					],
 					[
 						"Debug",
 						"DebugLib\t(Crb.sdl)"
-					],
-					[
-						"EFI",
-						"EFI_STATUS"
 					],
 					[
 						"isLe",
@@ -1108,8 +1512,16 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/E/_Code/_AMD/_01_MOD/AmiModulePkg/AmiStatusCode/StatusCodeCommon.c",
+					"settings":
+					{
+						"buffer_size": 26602,
+						"line_ending": "Unix"
+					}
+				}
 			],
-			"build_system": "",
+			"build_system": "Packages/User/BuildSystem/AptioV.sublime-build",
 			"build_system_choices":
 			[
 				[
@@ -1125,6 +1537,254 @@
 						[
 							"Packages/Python/Python.sublime-build",
 							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"WDK1703 Build"
+					]
+				],
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"Whitley Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"Whitley Build"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"WDK1703 Build"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"Whitley Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						"Whitley Build"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
 						],
 						[
 							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
@@ -1165,11 +1825,27 @@
 						[
 							"Packages/User/BuildSystem/AptioV.sublime-build",
 							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
 						]
 					],
 					[
 						"Packages/User/BuildSystem/AptioV.sublime-build",
-						""
+						"WDK1703 Build"
 					]
 				],
 				[
@@ -1191,6 +1867,82 @@
 						"Packages/User/BuildSystem/AptioV.sublime-build",
 						""
 					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							""
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"WDK1703 F7 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"Whitley Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 950 Build"
+						],
+						[
+							"Packages/User/BuildSystem/AptioV.sublime-build",
+							"MSFT 650 Build"
+						]
+					],
+					[
+						"Packages/User/BuildSystem/AptioV.sublime-build",
+						""
+					]
 				]
 			],
 			"build_varint": "",
@@ -1200,6 +1952,26 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"git add c",
+						"Git: Add Current File"
+					],
+					[
+						"gitt add c",
+						"Git: Add Current File"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"git check",
+						"Git: Checkout Current File"
+					],
+					[
+						"git pull",
+						"Git: Pull Current Branch"
+					],
 					[
 						"revire",
 						"PackageResourceViewer: Open Resource"
@@ -1211,10 +1983,6 @@
 					[
 						"Package Control: ",
 						"Package Control: List Packages"
-					],
-					[
-						"git add c",
-						"Git: Add Current File"
 					],
 					[
 						"git adc",
@@ -1251,144 +2019,149 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/E/_Code/_AMD/_01_MOD",
+				"/E/_Code/_AMD/_01_MOD/LenovoFamilyPkg"
+			],
 			"file_history":
 			[
-				"/E/Work/Sublime Text x64/ST/Data/Packages/Monokai Extended/Monokai Extended.tmTheme",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/Monokai Extended/Monokai Extended.JSON-tmTheme",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/word_highlight.py",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/Theme - Soda/Soda Dark 3.sublime-theme",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/Word Highlight.sublime-settings",
-				"/E/Work/Sublime Text x64/ST/Data/Packages/WordHighlight/package-metadata.json",
-				"/E/_Code/_Purley/_Code/_Platform_Code/_01_AEP_Update/Code/AmiModulePkg/PCI/PciBus.c",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/AmiModulePkg/IO/Pilot4/Pilot4.sdl",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/Token.h",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/AmiGpioTable.h",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/Token.mak",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/CrbPkg/Crb.sdl",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/AmiModulePkg/TCG2/Common/Setup/TcgSetup.sd",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/AmiModulePkg/IO/AST2500/AST2500.mak",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/AmiPkg/Configuration/Configuration.sdl",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/Build/Platform.dsc",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/RomImage/MossBeachServer_sps.bat",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/RomImage/Config/MossBeachSiEn_BX.xml",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/RomImage/Config/MossBeachFull_BX.xml",
-				"/E/_Code/_Mehlow/Crb/_Mehlow_CRB/MdePkg/MdePkg.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/MehlowServer/RELEASE_MYTOOLS/X64/Build/Setup/OUTPUT/AmiCompatibilityPkg/Setup/Setup.i",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/PlatformInit/PlatformInitDxe/PlatformInitDxe.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/PlatformInit/PlatformInitDxe/PlatformInitDxe.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Library/PeiPolicyBoardConfigLib/PeiCpuPolicyBoardConfig.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/PlatformInit/PlatformInitDxe/PlatformInitDxe.h",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/PlatformInit/PlatformInit.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiChipsetModulePkg/FIT/Fit.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/Token.mak",
-				"/E/_Code/_Mehlow/_02_MOD/Code/CrbPkg/Crb.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/FlashLayout/FlashLayout.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiChipsetModulePkg/FIT/Boot_Guard_CFL_ACM_QS_SVN0_FdfFileStatement.txt",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Library/BaseSiConfigBlockLib/BaseSiConfigBlockLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Include/ConfigBlock/CpuTxtConfig.h",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/Platform.fdf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/BiosAcm/BiosAcmFdfFileStatement.txt",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Dxe/AmiTxtDxe/SinitAcm/SinitAcmFdfFileStatement.txt",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Setup/PlatformSetup.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/Setup/TcgSetup.sd",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/AmiTxtTcg/AmiTxtTcgPeim.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/AmiTxtTcg/AmiTxtTcgPeim.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Library/PeiPolicyInitLib/PeiPolicyInitPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Library/PeiPolicyBoardConfigLib/PeiCpuPolicyBoardConfigPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/AmiTxtPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm20MfgToolNationZ/Tpm20MfgInitCommands.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm20MfgToolNationZ/Tpm20MfgTool.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm20MfgTool/Tpm20MfgInitCommands.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiTxtLib/PeiTxtLib.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiTxtLib/TxtPeiLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Dxe/AmiTxtDxe/SinitAcm/TxtSinitAcm.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Security/Security.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/AmiTxtPei.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowSvrLenovo.veb",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SiInit/SiInit.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/Token.h",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/MehlowServer/RELEASE_MYTOOLS/X64/AmiModulePkg/OemActivation/OA3/OA3/DEBUG/OA3.map",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/MehlowServer/RELEASE_MYTOOLS/IA32/MdeModulePkg/Core/Pei/PeiMain/DEBUG/PeiCore.map",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/BiosAcm/BiosAcProdRev0110.bin",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/LenovoRestrictedPkg.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SystemAgent/Library/Private/PeiSaInitLib/SaInit.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SystemAgent/Library/PeiSmmAccessLib/PeiSmmAccessLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SiPkg.dec",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Override/AmiModulePkg/CSM/CsmPolicy/CsmPolicy.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/CSM/CsmPolicy/Csm.sd",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MdeModulePkg/Core/Pei/Ppi/Ppi.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/PlatformInit/PlatformInitPei/PlatformInitPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/Usb/Pei/UsbPeim.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/VeBBased/EarlyHotkey/Pei/UsbPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Setup/OptionRomPolicySetup/OpromPolicySetup.sdl",
-				"/E/Work/Sublime Text x64/Data/Packages/SetWindowTitle/set_window_title.py",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/CSM/CsmPolicy/CsmSetup.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/EntryServerPkg/Platform/Pei/Mctp/PchMctp.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Setup/OptionRomPolicySetup/OptionRomPolicy.vfr",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/EntryServerPkg/Platform/Pei/Mctp/PchMctp.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/Private.cif",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/TxtInit/Dxe/TxtDxeLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/TxtInit/Dxe/TxtDxe.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiTxtLib/TxtPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiCpuInitLib/CpuInitPeim.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SiInit/Pei/SiInitPreMem.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/PlatformInit/PlatformInitPei/PlatformInitPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Library/PeiSiPolicyLib/PeiSiPolicyLibPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MdeModulePkg/Core/DxeIplPeim/Ia32/DxeLoadFunc.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiBeforeMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/Setup/TcgPwdTseHook.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/AmiTxtPei.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SiInit/Pei/SiInitPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Setup/SpsSetup.hfr",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Library/PeiSiPolicyLib/PeiSiPolicyLib.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Override/MdeModulePkg/Core/Dxe/Event/Event.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiCpuModulePkg/Pei/AmiTxtPei/BiosAcm/BiosAcm.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Setup/MeSetup.uni",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MdePkg/Library/PeiServicesLib/PeiServicesLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiChipsetModulePkg/NB/NbInit/NbPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Include/TxtInfoHob.h",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm12MfgTool/Tpm12MfgTool.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/SystemAgent/MemoryInitCfl/Library/Private/PeiMemoryInitLib/MemoryInit.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Library/BaseEcLib/BaseEcLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/MehlowPlatSamplePkg/PlatformInit/PlatformInitDxe/PlatformInitDxe.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/FspWrapper/Library/PeiFspPolicyInitLib/PeiFspSecurityPolicyInitLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Tcg.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Library/PeiPolicyUpdateLib/PeiCpuPolicyUpdatePreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/FspWrapper/Library/PeiFspPolicyInitLib/PeiFspPolicyInitLibPreMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiChipsetModulePkg/FIT/Pei/BootGuardTPMPei/BootGuardTPMPei.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Setup/OptionRomPolicySetup/OptionRomPolicy.sd",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/RemotePhysPresence/RemotePhysPresenceConfigDriver.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/ImmV3Module/ImmCommands/Smm/ImmCommandsSmm.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/RemotePhysPresence/RemotePhysPresenceConfig.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Setup/CpuSetup.hfr",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoFamilyPkg/Setup/OptionRomPolicySetup/OptionRomPolicy.uni",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/Tpm20MfgTool/Tpm20MfgTool.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/TcgSetup/TcgSetupCallback.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Build/Platform.dsc",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Override/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiAfterMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/TcgSetup/TcgSetupVfr.vfr",
-				"/E/_Code/_Mehlow/_02_MOD/Code/MehlowLenovoPkg/Setup/CpuSetup.uni",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/TpmVersionToggling/TpmVersionToggling.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Bin/Security/SecurityBinary.cif",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiPkg/Configuration/Configuration.sdl",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiLib.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/TcgPei/TcgTcmPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoCorePkg/Override/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTpm20PlatformPei.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/CpuInit/Dxe/SoftwareGuard.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/LenovoRestrictedPkg/Security/TpmVersionToggling/TPMVersionTogglingDxe.inf",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiAfterMem.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTpm20PlatformPei.c",
-				"/E/_Code/_Purley/_Code/_01ORG_AEP/Code/PurleyLenovo.veb",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakePlatSamplePkg/Platform/PlatformSetup/Dxe/PlatformSetup.c",
-				"/E/_Code/_Mehlow/_02_MOD/Code/Intel/CannonLakeSiliconPkg/Cpu/Library/Private/PeiDxeSoftwareGuardLib/PeiDxeSoftwareGuardLib.c"
+				"/E/_Code/_AMD/_01_MOD/Build/Platform.dsc",
+				"/E/_Code/_Whitley/_02_MOD/LenovoCorePkg/Library/LenovoDebugPrintErrorLevelLib/LenovoDebugPrintErrorLevelLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/LenovoRtRasLib/LenovoMemRasRoutines.c",
+				"/E/_Code/_Whitley/_02_MOD/WhitleyLenovoPkg/WhitleyLenovoPkg.cif",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/NVRAM/NvramDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/NVRAM/NvramSmi.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgGetCapabilities.c",
+				"/E/_Code/_Whitley/_02_MOD/ServerPlatformPkg/Library/OtaDxeLib/DxeOneTouchPlatform.c",
+				"/E/_Code/_Whitley/_02_MOD/MdePkg/Include/IndustryStandard/Tpm12.h",
+				"/E/_Code/_Whitley/_02_MOD/WhitleyLenovoPkg/Platform/Dxe/Setup/DxePlatform.inf",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/Tpm75xFWToggling/Tpm75xTogglingDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgUCMSetupVfr.vfr",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetupCallback.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/TpmNvmeSupport/TpmNvmeSupport.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/TCGSmm/TCGSmm.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoCorePkg/Override/AmiModulePkg/NVRAM/NvramSmm.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/AmiDep/AmiStatusCode/StatusCodeCommon.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/Tpm20PlatformDxe/Tpm20PlatformDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/AmiTcgPlatformDxe/AmiTcgPlatformDxeLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TpmVersionTogglingCallback.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetupStrings.uni",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetup.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Override/AmiModulePkg/TCG2/Common/Tpm20PlatformDxe/Tpm20PlatformDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/Build/Token.mak",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/NVRAM/NvramSmmWrapper.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/TpmVersionTogglingSupportLib/TpmVersionTogglingSupportLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoCorePkg/Override/AmiModulePkg/NVRAM/NvramDxeCommon.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/Tpm2CommandLib/Tpm2Hierarchy.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/TpmClearOnRollback/TpmClearOnRollbackMain.inf",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/Tpm75xFWToggling/Tpm75xTogglingDxe.h",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/SecureBoot/SecureBoot.sd",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/LenovoRestrictedPkg.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/SecureBoot/LenovoStyleSecureBootSetup/LenovoStyleSecureBootSetup.sdl",
+				"/E/_Code/_Whitley/_02_MOD/AmiTsePkg/Core/em/AMITSE/AMITSE.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Override/AmiModulePkg/SecureBoot/SecureBoot.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/LenovoStyle/Setup.vfr",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/LenovoStyle/SpecialPageHandler.c",
+				"/E/_Code/_Whitley/_02_MOD/MdeModulePkg/Library/UefiHiiLib/HiiLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/SecureBoot/LenovoStyleSecureBootSetup/LenovoStyleSecureBootSetup.sd",
+				"/E/_Code/_Whitley/_02_MOD/AmiCompatibilityPkg/Setup/Setup.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/SecureBoot/SecureBootHook/SecureBootHook.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/LenovoStyle/LenovoStyleSetup.sd",
+				"/E/_Code/_Whitley/_02_MOD/AmiTsePkg/EDK/MiniSetup/uefi2.1/HiiCallback.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiTsePkg/EDK/MiniSetup/BootOnly/minisetup.h",
+				"/E/_Code/_Whitley/_02_MOD/WilsonCitySkx/WilsonCitySkx.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetupVfr.vfr",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/VeBBased/EarlyHotkey/EarlyHotkeyUsbIo.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoCorePkg/Include/SecurityCommon.h",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/VeBBased/EarlyHotkey/Pei/UsbPei.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Common/AmiTcgPlatformDxe/AmiTcgPlatformDxe.c",
+				"/E/_Code/_Whitley/_02_MOD/ServerPlatformPkg/Platform/Dxe/SocketSetup/ProcessorSetupStrings.uni",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgPlatformSetupPeiPolicy/TcgPlatformSetupPeiPolicy.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/NuvotonTpm75x12Prov/NuvotonTpm75x12Prov.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/Tpm75xFWToggling/Tpm75xTogglingDxe.inf",
+				"/E/_Code/_Whitley/_02_MOD/ServerPlatformPkg/Platform/Dxe/SocketSetup/ProcessorSetup.hfr",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedBinPkg/Library/Tpm2CommandLib/Tpm2CommandLib.inf",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/Tpm2CommandLib/Tpm2CommandLib.sdl",
+				"/E/_Code/_Whitley/_02_MOD/Build/Platform.fdf",
+				"/E/_Code/_Whitley/_02_MOD/Build/Platform.dsc",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Include/Library/TPMVersionTogglingSupportLib.h",
+				"/E/_Code/_Purley/_Code/_01_GA/Code/PurleyLenovo.sdl",
+				"/E/_Code/_Purley/_Code/_01_GA/Code/PurleySktPkg/Me/MePkg.sdl",
+				"/E/_Code/_Purley/_Code/_01_GA/Code/PurleyPlatPkg/Me/MePkg.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/LenovoDebugPrintErrorLevelLib/LenovoDebugPrintErrorLevelLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/PtuBdsElinkLib/PtuBdsElinkLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/SecureBoot/SecureBootUCM/SecureBootUcm.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/AmiStatusCode/StatusCodeCommon.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Include/Guid/PhysicalPresenceData.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/Tpm20PhysicalPresence/Tpm20PhysicalPresence.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Library/Tpm2PhysicalPresenceLib/Tpm2PhysicalPresenceLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Library/Tpm2PolicyAssertionLib/Tpm2PolicyAssertionLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiIntelCpuPkg/Microcode/ServWork/M1050665_0E00000A.mcb",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/CSM/CsmPolicy/CsmPolicy.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/ImmV3Module/VgpioImmStatusCode/Dxe/VgpioImmStatusCodeDxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/SecureBoot/AuthenticatedVariable/AuthService.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/LenovoSecurityVariableHook.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/SecureBoot/SecureBootCore.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/TCG2/Common/AmiTcgPlatformDxe/AmiTcgPlatformDxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/SecureBoot/LenovoAuthVariableLink/LenovoAuthVariableLink.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/PurleyLenovoPkg/OptionRomPolicy/OptionRomPolicy.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/MdePkg/Include/IndustryStandard/TcgPhysicalPresence.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/TrEESmm/TrEESmm.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/Include/AmiTcg/TcgPc.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/TCG2/Tcg.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/PurleyPlatPkg/Platform/Dxe/Hsti/HstiIhvProviderDxe/MeasuredBootEnforcement.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/TCG2/Common/TcgDxe/Tcg2Dxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/TCG2/Common/TcgDxe/Tcg2Dxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/TCG2/Common/Tpm20PlatformDxe/Tpm20PlatformDxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/MdePkg/Include/IndustryStandard/UefiTcgPlatform.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/Include/AmiTcg/TcgEFI12.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/Tpm20PlatformDxe/Tpm20PlatformDxe.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/PurleySktPkg/Me/PtuLoader/PtuLoader.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/PtuSupportLib/PtuSupportLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Include/SecurityCommon.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiModulePkg/NVRAM/NvramSmi.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/NVRAM/NvramSmm.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/NVRAM/NvramDxeCommon.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Security/Security.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/PurleyLenovo.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/InstallPlatformKey/PlatformKey.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/InstallPlatformKey/InstallPlatformKey.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Library/PlatformTestKey/PlatformTestKey.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/InstallPlatformKey/InstallTestKey.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/Build/Platform.fdf",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/InstallPlatformKey/InstallTestKey.inf",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/LenovoCorePkg.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/PartitionDxe/Gpt.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/GPTRecoveryPolicyLib/GPTRecoveryPolicyLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/DriverHealth/DriverHealth.sdl",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/Build/Token.mak",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/AmiChipsetModulePkg/BiosGuard/BiosGuardPubKeysAndBuildPSL/BiosGuardPubKeysAndBuildPSL.mak",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/DriverHealthCheckLib/DriverHealthCheckLib.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/DriverHealth/DriverHealthCheckDxe/DriverHealthCheck.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Library/StatusCodeUserStringMap.h",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/TcgSetup/TcgSetupCallback.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/TcgPlatformSetupPolicy/TcgPlatformSetupPolicy.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoRestrictedPkg/Security/TcgPlatformSetupPeiPolicy/TcgPlatformSetupPeiPolicy.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/Override/AmiModulePkg/TCG2/Common/AmiTcgPlatformPei/AmiTcgPlatformPeiAfterMem.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/LenovoCorePkg/ConfigMgmt/Ucm/Ucm.c",
+				"/E/_Code/_Purley/_Code/_01_MLK_19A/Code/Original/AmiModulePkg/TCG2/Common/TcgDxe/Tcg2Dxe.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/ConfigMgmt/SystemOobCustom/SystemOobCustom.c",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/Tcg.sdl",
+				"/E/_Code/_Whitley/_02_MOD/AmiModulePkg/TCG2/CRB_lib/Tpm20CRBLib.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/AmiDep/AmiStatusCode/StatusCodeAmi.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoFamilyPkg/Security/TcgSetup/TcgSetupStrings.c",
+				"/E/_Code/_Whitley/_02_MOD/WilsonCityIcx/WilsonCityIcx.sdl",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Security/NuvotonTpm75x20Prov/NuvotonTpm75x20ProvCmd.c",
+				"/E/_Code/_Whitley/_02_MOD/LenovoRestrictedPkg/Library/Tpm2PolicyAssertionLib/Tpm2PolicyAssertionLib.c"
 			],
 			"find":
 			{
-				"height": 32.0
+				"height": 29.0
 			},
 			"find_in_files":
 			{
-				"height": 110.0,
+				"height": 137.0,
 				"where_history":
 				[
 				]
@@ -1398,35 +2171,149 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"debuglib"
 				],
 				"highlight": true,
 				"in_selection": false,
 				"preserve_case": false,
-				"regex": true,
+				"regex": false,
 				"replace_history":
 				[
 				],
 				"reverse": false,
 				"show_context": true,
 				"use_buffer2": true,
-				"whole_word": false,
+				"whole_word": true,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "E:\\_Code\\_AMD\\_01_MOD"
+				}
+			],
 			"groups":
 			[
 				{
+					"selected": 0,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/E/_Code/_AMD/_01_MOD/AmiModulePkg/AmiStatusCode/StatusCodeCommon.c",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 26602,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4936,
+										4936
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.clone": -1,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"set_window_title_was_dirty": false,
+									"syntax": "Packages/C++/C.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1700.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 32.0
+				"height": 29.0
 			},
 			"input":
 			{
-				"height": 38.0
+				"height": 41.0
 			},
 			"layout":
 			{
@@ -1453,18 +2340,22 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 132.0
+				"height": 392.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
+			"output.git-pull":
+			{
+				"height": 150.0
+			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1021,156,156,1608",
+			"position": "0,2,3,-1,-1,-1,-1,995,130,130,1582",
 			"project": "",
 			"replace":
 			{
-				"height": 60.0
+				"height": 54.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1474,24 +2365,348 @@
 				"selected_items":
 				[
 					[
+						".dsc",
+						"Build\\Platform.dsc"
+					],
+					[
+						"statuscodec",
+						"AmiModulePkg\\AmiStatusCode\\StatusCodeCommon.c"
+					],
+					[
+						"NVRAMSMM",
+						"LenovoCorePkg\\Override\\AmiModulePkg\\NVRAM\\NvramSmm.c"
+					],
+					[
 						"pcibus.c",
 						"AmiModulePkg\\PCI\\PciBus.c"
+					],
+					[
+						"whitleyLenovo",
+						"WhitleyLenovo.cif"
+					],
+					[
+						"tpm12.h",
+						"MdePkg\\Include\\IndustryStandard\\Tpm12.h"
+					],
+					[
+						"token.mak",
+						"Build\\Token.mak"
+					],
+					[
+						"statuscodecomm",
+						"LenovoFamilyPkg\\AmiDep\\AmiStatusCode\\StatusCodeCommon.c"
+					],
+					[
+						"togglings",
+						"LenovoRestrictedPkg\\Library\\TpmVersionTogglingSupportLib\\TpmVersionTogglingSupportLib.c"
+					],
+					[
+						"tcgucm.",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TcgUCMSetupVfr.vfr"
+					],
+					[
+						"tcgsetupcallback",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TcgSetupCallback.c"
+					],
+					[
+						"tcgcallback",
+						"AmiModulePkg\\TCG2\\Common\\TpmClearOnRollback\\TpmClearOnRollbackMain.inf"
+					],
+					[
+						"SECUREBOOTHOOK.C",
+						"LenovoFamilyPkg\\Security\\SecureBoot\\SecureBootHook\\SecureBootHook.c"
+					],
+					[
+						"tpm20platformDxe.c",
+						"LenovoFamilyPkg\\Override\\AmiModulePkg\\TCG2\\Common\\Tpm20PlatformDxe\\Tpm20PlatformDxe.c"
+					],
+					[
+						"setup.c",
+						"AmiCompatibilityPkg\\Setup\\Setup.c"
+					],
+					[
+						"secureboot.c",
+						"LenovoFamilyPkg\\Override\\AmiModulePkg\\SecureBoot\\SecureBoot.c"
+					],
+					[
+						"lenovostylesecure",
+						"LenovoFamilyPkg\\Security\\SecureBoot\\LenovoStyleSecureBootSetup\\LenovoStyleSecureBootSetup.sd"
+					],
+					[
+						"SECUREBOOT.SD",
+						"AmiModulePkg\\SecureBoot\\SecureBoot.sd"
+					],
+					[
+						"togglinglib.c",
+						"LenovoRestrictedPkg\\Library\\TpmVersionTogglingSupportLib\\TpmVersionTogglingSupportLib.c"
+					],
+					[
+						"toggling",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TpmVersionTogglingCallback.c"
+					],
+					[
+						"tcgsetup.c",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TcgSetup.c"
+					],
+					[
+						"usbpei",
+						"LenovoFamilyPkg\\VeBBased\\EarlyHotkey\\Pei\\UsbPei.c"
+					],
+					[
+						"",
+						"LenovoRestrictedPkg\\Security\\Tpm75xFWToggling\\Tpm75xTogglingDxe.c"
+					],
+					[
+						"Tpm2CommandLib",
+						"LenovoRestrictedPkg\\Library\\Tpm2CommandLib\\Tpm2CommandLib.sdl"
+					],
+					[
+						"Tpm2command",
+						"LenovoRestrictedBinPkg\\Library\\Tpm2CommandLib\\Tpm2CommandLib.inf"
+					],
+					[
+						"processor.hfr",
+						"ServerPlatformPkg\\Platform\\Dxe\\SocketSetup\\ProcessorSetup.hfr"
+					],
+					[
+						"togglingc",
+						"LenovoFamilyPkg\\Security\\TcgSetup\\TpmVersionTogglingCallback.c"
 					],
 					[
 						".fdf",
 						"Build\\Platform.fdf"
 					],
 					[
-						"crb.sdl",
-						"CrbPkg\\Crb.sdl"
-					],
-					[
-						"amitxtpei.c",
-						"AmiCpuModulePkg\\Pei\\AmiTxtPei\\AmiTxtPei.c"
+						"togglingsu.c",
+						"LenovoRestrictedPkg\\Library\\TpmVersionTogglingSupportLib\\TpmVersionTogglingSupportLib.c"
 					],
 					[
 						".veb",
 						"MehlowSVR.veb"
+					],
+					[
+						"MePkg.sdl",
+						"PurleyPlatPkg\\Me\\MePkg.sdl"
+					],
+					[
+						"amt.sdl",
+						"PurleyPlatPkg\\Me\\AMT\\AMT.sdl"
+					],
+					[
+						"plt4.c",
+						"AmiModulePkg\\IO\\Pilot4\\Pilot4.cif"
+					],
+					[
+						"earlyvideo.c",
+						"LenovoCorePkg\\Video\\Pei\\EarlyVideo.c"
+					],
+					[
+						"debugprinterrorlevel.c",
+						"LenovoCorePkg\\Library\\LenovoDebugPrintErrorLevelLib\\LenovoDebugPrintErrorLevelLib.c"
+					],
+					[
+						"BDselinklib",
+						"LenovoCorePkg\\Library\\PtuBdsElinkLib\\PtuBdsElinkLib.c"
+					],
+					[
+						"processor.vf",
+						"LenovoFamilyPkg\\Setup\\ProcessorSetup\\ProcessorSetupVfr.vfr"
+					],
+					[
+						"statuscodecommon.c",
+						"LenovoCorePkg\\AmiStatusCode\\StatusCodeCommon.c"
+					],
+					[
+						"securebootu",
+						"LenovoCorePkg\\Security\\SecureBoot\\SecureBootUCM\\SecureBootUcm.c"
+					],
+					[
+						"IntelNvmDimm.inf",
+						"LenovoRestrictedPkg\\IntelNvmDimm\\IntelNvmDimm.inf"
+					],
+					[
+						"security.mak",
+						"LenovoRestrictedPkg\\Security\\Security.mak"
+					],
+					[
+						"ubamain",
+						"PurleyRpPkg\\Uba\\UbaMain\\Pei\\UbaMainPei.c"
+					],
+					[
+						"PtuSupportLib.inf",
+						"LenovoCorePkg\\Library\\PtuSupportLib\\PtuSupportLib.inf"
+					],
+					[
+						"tcgcall",
+						"LenovoRestrictedPkg\\Security\\TcgSetup\\TcgSetupCallback.c"
+					],
+					[
+						"05E",
+						"AmiIntelCpuPkg\\Microcode\\ServWork\\M1050665_0E00000A.mcb"
+					],
+					[
+						"Tcg2Dxe.c",
+						"AmiModulePkg\\TCG2\\Common\\TcgDxe\\Tcg2Dxe.c"
+					],
+					[
+						"physicalpresence.h",
+						"MdePkg\\Include\\IndustryStandard\\TcgPhysicalPresence.h"
+					],
+					[
+						"oprompolicy.c",
+						"PurleyLenovoPkg\\OptionRomPolicy\\OptionRomPolicy.c"
+					],
+					[
+						"ucm.c",
+						"LenovoCorePkg\\ConfigMgmt\\Ucm\\Ucm.c"
+					],
+					[
+						"secureboothook",
+						"LenovoCorePkg\\Security\\SecureBoot\\LenovoAuthVariableLink\\LenovoAuthVariableLink.c"
+					],
+					[
+						"ptu",
+						"LenovoCorePkg\\Library\\PtuSupportLib\\PtuSupportLib.c"
+					],
+					[
+						"nvramSMM",
+						"AmiModulePkg\\NVRAM\\NvramSmm.c"
+					],
+					[
+						"nvrasmi.c",
+						"AmiModulePkg\\NVRAM\\NvramSmi.c"
+					],
+					[
+						"InstallTestKey.inf",
+						"LenovoRestrictedPkg\\Security\\InstallPlatformKey\\InstallTestKey.inf"
+					],
+					[
+						"gptrecovery",
+						"LenovoCorePkg\\Library\\GPTRecoveryPolicyLib\\GPTRecoveryPolicyLib.c"
+					],
+					[
+						"gpt.c",
+						"LenovoCorePkg\\PartitionDxe\\Gpt.c"
+					],
+					[
+						"tpm20physicalpresence.c",
+						"LenovoRestrictedPkg\\Security\\Tpm20PhysicalPresence\\Tpm20PhysicalPresence.c"
+					],
+					[
+						"physicalpresence",
+						"LenovoRestrictedPkg\\Security\\Tpm20PhysicalPresence\\Tpm20PhysicalPresence.c"
+					],
+					[
+						"tpm20mfg",
+						"LenovoRestrictedPkg\\Security\\Tpm20MfgToolNationZ\\Tpm20MfgTool.c"
+					],
+					[
+						"tpm20pla",
+						"AmiModulePkg\\TCG2\\Common\\Tpm20PlatformDxe\\Tpm20PlatformDxe.c"
+					],
+					[
+						"Statuscodecommon.c",
+						"LenovoFamilyPkg\\AmiDep\\AmiStatusCode\\StatusCodeCommon.c"
+					],
+					[
+						"devicestring",
+						"WhitleyRpPkg\\Include\\Uba\\PlatformData\\AbyssDeviceString.h"
+					],
+					[
+						"token.h",
+						"Build\\Token.h"
+					],
+					[
+						"statuscodeommon. c",
+						"LenovoFamilyPkg\\AmiDep\\AmiStatusCode\\StatusCodeCommon.c"
+					],
+					[
+						"PerfMon.inf",
+						"LenovoCorePkg\\BootPerformance\\PerfMon\\PerfMon.inf"
+					],
+					[
+						"bootper",
+						"LenovoCorePkg\\BootPerformance\\BootPerformance.cif"
+					],
+					[
+						"devicestr",
+						"WhitleyRpPkg\\Include\\Uba\\PlatformData\\AbyssDeviceString.h"
+					],
+					[
+						"SetupDeviceIOTable.h",
+						"WhitleyRpPkg\\Uba\\UbaMain\\TypeAbyss\\Pei\\SetupDeviceIOTable.h"
+					],
+					[
+						"lenovofa",
+						"LenovoFamilyPkg\\LenovoFamilyPkg.sdl"
+					],
+					[
+						"crb.sdl",
+						"CrbPkg\\Crb.sdl"
+					],
+					[
+						"PeiCpuPolicyUpdate.c",
+						"Intel\\MehlowPlatSamplePkg\\Library\\PeiPolicyUpdateLib\\PeiCpuPolicyUpdate.c"
+					],
+					[
+						"PlatformInit.inf",
+						"Intel\\CannonLakePlatSamplePkg\\PlatformInit\\PlatformInitPei\\PlatformInit.inf"
+					],
+					[
+						"BoardInitLib.inf",
+						"Intel\\CannonLakePlatSamplePkg\\Board\\Others\\DxeBoardInitLib\\BoardInitLib.inf"
+					],
+					[
+						"TOKEN.MAK",
+						"Build\\Token.mak"
+					],
+					[
+						"TrEESmm.inf",
+						"Build\\HODAKA\\RELEASE_MYTOOLS\\X64\\LenovoRestrictedPkg\\Security\\TrEESmm\\TrEESmm\\OUTPUT\\TrEESmm.inf"
+					],
+					[
+						"treesmm.c",
+						"LenovoRestrictedPkg\\Security\\TrEESmm\\TrEESmm.c"
+					],
+					[
+						"SecureBootUcmVfr.vfr",
+						"LenovoCorePkg\\Security\\SecureBoot\\SecureBootUCM\\SecureBootUcmVfr.vfr"
+					],
+					[
+						"bootp",
+						"LenovoCorePkg\\BootPerformance\\BootPerformance.cif"
+					],
+					[
+						"secureboot_lenovo.c",
+						"LenovoCorePkg\\Security\\SecureBoot\\SecureBootSetup\\SecureBoot_Lenovo.c"
+					],
+					[
+						"lenovodebugprint",
+						"LenovoCorePkg\\Library\\LenovoDebugPrintErrorLevelLib\\LenovoDebugPrintErrorLevelLib.c"
+					],
+					[
+						"lenovodebugcin.c",
+						"LenovoCorePkg\\Library\\LenovoDebugConfigLib\\LenovoDebugConfigLib.c"
+					],
+					[
+						"deviceiose",
+						"LenovoFamilyPkg\\Setup\\DeviceIoSetup\\DeviceIoSetup.c"
+					],
+					[
+						"secureboot_lenovo.sd",
+						"LenovoCorePkg\\Security\\SecureBoot\\SecureBootSetup\\SecureBoot_Lenovo.sd"
+					],
+					[
+						"tpm.asl",
+						"LenovoRestrictedPkg\\Security\\TrEESmm\\Tpm.asl"
+					],
+					[
+						"csmpolicy.c",
+						"LenovoFamilyPkg\\Override\\AmiModulePkg\\CSM\\CsmPolicy\\CsmPolicy.c"
+					],
+					[
+						"amitxtpei.c",
+						"AmiCpuModulePkg\\Pei\\AmiTxtPei\\AmiTxtPei.c"
 					],
 					[
 						"amipciplatform.cif",
@@ -1500,10 +2715,6 @@
 					[
 						"amipcipla",
 						"AmiChipsetModulePkg\\SB\\AmiPciPlatform\\AmiPciPlatform.cif"
-					],
-					[
-						"token.mak",
-						"Build\\Token.mak"
 					],
 					[
 						"biosacm.sdl",
@@ -1524,14 +2735,6 @@
 					[
 						"sbcspde",
 						"AmiChipsetModulePkg\\Library\\SbCspIoDecodeLib\\SbCspIoDecodeLib.c"
-					],
-					[
-						".dsc",
-						"Build\\Platform.dsc"
-					],
-					[
-						"token.h",
-						"Build\\Token.h"
 					],
 					[
 						".vfr",
@@ -1560,10 +2763,6 @@
 					[
 						"sinitacmfdffilestatement.txt",
 						"AmiCpuModulePkg\\Dxe\\AmiTxtDxe\\SinitAcm\\SinitAcmFdfFileStatement.txt"
-					],
-					[
-						"tpm20mfg",
-						"LenovoRestrictedPkg\\Security\\Tpm20MfgToolNationZ\\Tpm20MfgTool.c"
 					],
 					[
 						"flashla",
@@ -1634,10 +2833,6 @@
 						"Intel\\CannonLakeSiliconPkg\\Cpu\\TxtInit\\Dxe\\TxtDxe.c"
 					],
 					[
-						"",
-						"LenovoRestrictedPkg\\Security\\Tpm20MfgTool\\Tpm20MfgInitCommands.c"
-					],
-					[
 						"oprompolicy.sd",
 						"LenovoFamilyPkg\\Setup\\OptionRomPolicySetup\\OptionRomPolicy.sd"
 					],
@@ -1648,10 +2843,6 @@
 					[
 						"amitcgplatformpeiaftermem.c",
 						"LenovoCorePkg\\Override\\AmiModulePkg\\TCG2\\Common\\AmiTcgPlatformPei\\AmiTcgPlatformPeiAfterMem.c"
-					],
-					[
-						"toggling",
-						"LenovoRestrictedPkg\\Security\\TpmVersionToggling\\TpmVersionToggling.cif"
 					],
 					[
 						"acpiplatform.c",
@@ -1678,312 +2869,12 @@
 						"AmiCpuModulePkg\\Dxe\\AmiTxtDxe\\SinitAcm\\SinitAcProdRev0120.bin"
 					],
 					[
-						"statuscodecommon.c",
-						"LenovoCorePkg\\AmiStatusCode\\StatusCodeCommon.c"
-					],
-					[
 						"gpioprivatelib.c",
 						"Intel\\CannonLakeSiliconPkg\\Pch\\Library\\Private\\PeiDxeSmmGpioPrivateLib\\GpioPrivateLib.c"
 					],
 					[
 						"amistatuscode.sdl",
 						"LenovoCorePkg\\AmiStatusCode\\StatusCodeAmi.sdl"
-					],
-					[
-						"a0327fe0-1fda-4e5b-905d-b510c45a61d0",
-						"Build\\a0327fe0-1fda-4e5b-905d-b510c45a61d0.txt"
-					],
-					[
-						"pcisdl.c",
-						"Build\\PCIBRDSDL.c"
-					],
-					[
-						"mehlowlenovo",
-						"MehlowLenovoPkg\\MehlowLenovoPkg.sdl"
-					],
-					[
-						"csmpolicy",
-						"AmiModulePkg\\CSM\\CsmPolicy\\CsmPolicy.inf"
-					],
-					[
-						"csmpolicy.inf",
-						"AmiModulePkg\\CSM\\CsmPolicy\\CsmPolicy.inf"
-					],
-					[
-						"nb.sdl",
-						"AmiChipsetModulePkg\\Nb.sdl"
-					],
-					[
-						"csmpolicy.c",
-						"LenovoFamilyPkg\\Override\\AmiModulePkg\\CSM\\CsmPolicy\\CsmPolicy.c"
-					],
-					[
-						"sdl.c",
-						"Build\\APICBRDSDL.c"
-					],
-					[
-						"dsdtasl.iiii",
-						"Build\\MehlowServer\\RELEASE_MYTOOLS\\X64\\Build\\DsdtAsl\\OUTPUT\\AmiModulePkg\\ACPI\\DsdtAsl.iiii"
-					],
-					[
-						"a0327fe0",
-						"Build\\a0327fe0-1fda-4e5b-905d-b510c45a61d0.txt"
-					],
-					[
-						"a0327fe0-1fda-4e5b-905d-b510c45a61d0.txt",
-						"Build\\a0327fe0-1fda-4e5b-905d-b510c45a61d0.txt"
-					],
-					[
-						"pciromtemplate.txt",
-						"AmiModulePkg\\BoardInfo\\PciRomTemplate.txt"
-					],
-					[
-						"oprompolicu",
-						"LenovoFamilyPkg\\Setup\\OptionRomPolicySetup\\OpromPolicySetup.c"
-					],
-					[
-						"uefivideo",
-						"AmiModulePkg\\CSM\\CsmVideo\\UefiBiosVideo.c"
-					],
-					[
-						"csmvideo",
-						"AmiModulePkg\\CSM\\CsmVideo\\CsmVideo.inf"
-					],
-					[
-						"bootmodelib.h",
-						"LenovoCorePkg\\Include\\Library\\BootModeLib.h"
-					],
-					[
-						"lenovo12.sdl",
-						"LenovoCorePkg\\LenovoBootManager\\LenovoF12\\LenovoF12.sdl"
-					],
-					[
-						"lenovof12bds",
-						"LenovoCorePkg\\LenovoBootManager\\LenovoF12\\LenovoF12Bds.c"
-					],
-					[
-						"gpt.c",
-						"MdeModulePkg\\Universal\\Disk\\PartitionDxe\\Gpt.c"
-					],
-					[
-						"oprompolicy.c",
-						"PurleyLenovoPkg\\OptionRomPolicy\\OptionRomPolicy.c"
-					],
-					[
-						"pmcprivatelib.c",
-						"Intel\\CannonLakeSiliconPkg\\Pch\\Library\\Private\\PeiDxeSmmPmcPrivateLib\\PmcPrivateLib.c"
-					],
-					[
-						"gpiotablemossbeach.h",
-						"MehlowLenovoPkg\\Board\\Others\\PeiBoardInitLib\\GpioTableMossBeach.h"
-					],
-					[
-						"verifyfwcapsulepeilib.inf",
-						"AmiModulePkg\\SecureFlash\\SecFlashUpd\\VerifyFwCapsulePeiLib.inf"
-					],
-					[
-						"fsrecovery.c",
-						"AmiModulePkg\\Recovery\\FsRecovery\\FsRecovery.c"
-					],
-					[
-						"fsrecovery",
-						"AmiModulePkg\\Recovery\\FsRecovery\\FsRecovery.c"
-					],
-					[
-						"devicestring.h",
-						"PurleyLenovoPkg\\Include\\Uba\\PlatformData\\CableDeviceString.h"
-					],
-					[
-						"gpio",
-						"MehlowLenovoPkg\\Board\\Others\\PeiBoardInitLib\\GpioTableMossBeach.h"
-					],
-					[
-						"tpmtcmpolicyinit",
-						"LenovoFamilyPkg\\Security\\TpmTcmPolicyInit\\Pei\\TpmTcmPolicyInit.c"
-					],
-					[
-						"uefispec.h",
-						"MdePkg\\Include\\Uefi\\UefiSpec.h"
-					],
-					[
-						"uefibasetype.h",
-						"MdePkg\\Include\\Uefi\\UefiBaseType.h"
-					],
-					[
-						"uefi.h",
-						"MdePkg\\Include\\Uefi.h"
-					],
-					[
-						"hiilib.c",
-						"MdeModulePkg\\Library\\UefiHiiLib\\HiiLib.c"
-					],
-					[
-						"peicpupolicyupdatepremem.c",
-						"MehlowLenovoPkg\\Library\\PeiPolicyUpdateLib\\PeiCpuPolicyUpdatePreMem.c"
-					],
-					[
-						"txtdxe",
-						"Intel\\CannonLakeSiliconPkg\\Cpu\\TxtInit\\Dxe\\TxtDxe.c"
-					],
-					[
-						"lenovobootmanagertse.c",
-						"LenovoCorePkg\\LenovoBootManager\\TSE\\LenovoBootManagerTse.c"
-					],
-					[
-						"lenovorestrictedpkg",
-						"LenovoRestrictedPkg\\LenovoRestrictedPkg.sdl"
-					],
-					[
-						"tcgsetupvfr.vfr",
-						"LenovoRestrictedPkg\\Security\\TcgSetup\\TcgSetupVfr.vfr"
-					],
-					[
-						"tpmtcmpolicysettingsmmlib.inf",
-						"LenovoCorePkg\\Bin\\LibraryBinary\\TpmTcmPolicySettingSmmLib.inf"
-					],
-					[
-						"tcgsetup.sd",
-						"AmiModulePkg\\TCG2\\Common\\Setup\\TcgSetup.sd"
-					],
-					[
-						"statuscode.sdl",
-						"LenovoCorePkg\\AmiStatusCode\\StatusCodeAmi.sdl"
-					],
-					[
-						"boot_guard_cfl_acm_3909_es_0.5.bin",
-						"AmiChipsetModulePkg\\FIT\\Boot_Guard_CFL_ACM_3909_ES_0.5.bin"
-					],
-					[
-						"boot_guard_cfl_acm_es_svn0_fdffilestatement.txt",
-						"AmiChipsetModulePkg\\FIT\\Boot_Guard_CFL_ACM_ES_SVN0_FdfFileStatement.txt"
-					],
-					[
-						"/biosacdbgrev0060.bin",
-						"AmiCpuModulePkg\\Pei\\AmiTxtPei\\BiosAcm\\BiosAcDbgRev0060.bin"
-					],
-					[
-						"biosacdbgrev0060.bin",
-						"AmiCpuModulePkg\\Pei\\AmiTxtPei\\BiosAcm\\BiosAcDbgRev0060.bin"
-					],
-					[
-						"fittable.com",
-						"Build\\MehlowServer\\DEBUG_MYTOOLS\\X64\\AmiChipsetModulePkg\\FIT\\FitTable\\OUTPUT\\FitTable.com"
-					],
-					[
-						"fittablefdffilestatement.txt",
-						"AmiChipsetModulePkg\\FIT\\FitTableFdfFileStatement.txt"
-					],
-					[
-						"fit",
-						"AmiChipsetModulePkg\\FIT\\FitTable.asm16"
-					],
-					[
-						"nationz",
-						"LenovoCorePkg\\Library\\NationZTPM20Lib\\NationZTPM20Lib.c"
-					],
-					[
-						"mrcinter",
-						"Intel\\CannonLakeSiliconPkg\\SystemAgent\\MemoryInit\\Include\\Coffeelake\\MrcInterface.h"
-					],
-					[
-						"mrcinterface.h",
-						"Intel\\CannonLakeSiliconPkg\\SystemAgent\\MemoryInit\\Include\\Coffeelake\\MrcInterface.h"
-					],
-					[
-						"mrcinterface",
-						"Intel\\CannonLakeSiliconPkg\\SystemAgent\\MemoryInit\\Include\\MrcInterface.h"
-					],
-					[
-						"platforminitpremem.c",
-						"MehlowLenovoPkg\\PlatformInit\\PlatformInitPei\\PlatformInitPreMem.c"
-					],
-					[
-						"setupitems.h",
-						"MehlowLenovoPkg\\Setup\\SetupItems.h"
-					],
-					[
-						"otherboardconfigpatchtable.h",
-						"Intel\\MehlowPlatSamplePkg\\Board\\Include\\OtherBoardConfigPatchTable.h"
-					],
-					[
-						"platform.dsc",
-						"Build\\Platform.dsc"
-					],
-					[
-						"crb.mak",
-						"CrbPkg\\Crb.mak"
-					],
-					[
-						"vfrparser.cif",
-						"MehlowLenovoPkg\\Setup\\VfrParser\\VfrParser.cif"
-					],
-					[
-						"setup.vfr",
-						"LenovoFamilyPkg\\LenovoStyle\\Setup.vfr"
-					],
-					[
-						"optionrompolicy.sd",
-						"PurleyLenovoPkg\\OptionRomPolicy\\OptionRomPolicy.sd"
-					],
-					[
-						"string.c",
-						"MdePkg\\Library\\BaseLib\\String.c"
-					],
-					[
-						"amilanguagedefinitions.uni",
-						"AmiPkg\\Include\\AmiLanguageDefinitions.uni"
-					],
-					[
-						"languages.uni",
-						"Build\\Languages.uni"
-					],
-					[
-						"vfr.uni",
-						"AmiCompatibilityPkg\\Include\\VFR.uni"
-					],
-					[
-						"oprompolicy",
-						"PurleyLenovoPkg\\OptionRomPolicy\\OptionRomPolicy.c"
-					],
-					[
-						"csmsetup.c",
-						"LenovoFamilyPkg\\Setup\\CsmSetup\\CsmSetup.c"
-					],
-					[
-						"tcgs",
-						"LenovoRestrictedPkg\\Security\\TcgSetup\\TcgSetupStrings.c"
-					],
-					[
-						"tpmlock.inf",
-						"LenovoRestrictedPkg\\Security\\Tools\\TpmLock\\TpmLock.inf"
-					],
-					[
-						"sbruntimeservicelib.c",
-						"LenovoFamilyPkg\\Override\\AmiChipsetModulePkg\\Library\\SbRuntimeServiceLib\\SbRuntimeServiceLib.c"
-					],
-					[
-						"lept",
-						"LenovoCorePkg\\PostScreen\\LeptBoot\\LEPTBootLib.c"
-					],
-					[
-						"uefivideo.c",
-						"AmiModulePkg\\CSM\\CsmVideo\\UefiBiosVideo.c"
-					],
-					[
-						"debuglevel",
-						"LenovoCorePkg\\Library\\LenovoDebugPrintErrorLevelLib\\LenovoDebugPrintErrorLevelLib.c"
-					],
-					[
-						"graphicsoutput.h",
-						"MdePkg\\Include\\Protocol\\GraphicsOutput.h"
-					],
-					[
-						"gptrecovery",
-						"LenovoCorePkg\\Library\\GPTRecoveryPolicyLib\\GPTRecoveryPolicyLib.c"
-					],
-					[
-						"platformpkg.dec",
-						"Intel\\CannonLakePlatSamplePkg\\PlatformPkg.dec"
 					]
 				],
 				"width": 0.0
@@ -2019,7 +2910,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 274,
+			"window_id": 359,
 			"workspace_name": ""
 		}
 	],

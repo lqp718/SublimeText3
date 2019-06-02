@@ -1,10 +1,10 @@
 @echo on
 
-set PATH=E:\BuildTool\WinDDK\7600.16385.1\bin\x86;E:\BuildTool\AptioVBuildTools;%PATH%
+set PATH=E:\BuildTool\WinDDK\7600.16385.1\bin\x86;E:\BuildTool\AptioVBuildTools_32;%PATH%
 
 set CCX86DIR=E:\BuildTool\WinDDK\7600.16385.1\bin\x86\x86
 set CCX64DIR=E:\BuildTool\WinDDK\7600.16385.1\bin\x86\amd64
-set TOOLS_DIR=E:\BuildTool\AptioVBuildTools
+set TOOLS_DIR=E:\BuildTool\AptioVBuildTools_32
 if exist PurleyLenovo.veb (
 	set VEB=PurleyLenovo
 ) else (
@@ -20,9 +20,21 @@ if exist PurleyLenovo.veb (
 		)
 	)
 )
+if exist BakervilleLenovo.veb (
+	set VEB=BakervilleLenovo
+) else (
+	if exist Bakerville.veb (
+		set VEB=Bakerville
+	)
+)
+
+if exist LenovoRome.veb (
+	set VEB=LenovoRome
+)
 
 ::start D:\Work\Aptio_5.27\VisualeBios\VisualeBios.exe
 ::set VEB=D:\_Code\_Purley\_02_MOD\Code\PurleyLenovo
 
 if "%1" == "buildall" make rebuild
 if "%1" == "build" make
+if "%1" == "binary" make UPD

@@ -1,7 +1,7 @@
 {
 	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"font_face": "Consolas",
-	"font_size": 14,
+	"font_size": 13,
 	"hot_exit": true,
 	"ignored_packages":
 	[
@@ -14,7 +14,7 @@
 	],
 	"remember_full_screen": true,
 	"soda_classic_tabs": true,
+	"sublime_merge_path": "sublime_merge/sublime_merge.exe",
 	"theme": "Soda Dark 3.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"sublime_merge_path": "sublime_merge/sublime_merge.exe"
+	"translate_tabs_to_spaces": true
 }
