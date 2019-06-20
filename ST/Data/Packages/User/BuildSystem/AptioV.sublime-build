@@ -1,5 +1,5 @@
 {
-	"path":"$PATH;E:/Work/Sublime Text x64/ST/Data/Packages/User/BuildSystem;E:/Work/Sublime Text x64/ST",
+	"path":"$PATH;D:/Work/Sublime Text x64/ST/Data/Packages/User/BuildSystem;D:/Work/Sublime Text x64/ST;",
 	"working_dir":"${folder}",
 	
 	"shell_cmd": "AptioVBuiild.bat buildall",

@@ -1,8 +1,8 @@
 @echo on
 
-set PATH=E:\BuildTool\EnterpriseWDK_1703;E:\BuildTool\AptioVBuildTools;%PATH%
-set TOOLS_DIR=E:\BuildTool\AptioVBuildTools
-set EWDK_DIR=E:\BuildTool\EnterpriseWDK_1703
+set PATH=D:\BuildTool\EnterpriseWDK_1703;D:\BuildTool\AptioVBuildTools_33;%PATH%
+set TOOLS_DIR=D:\BuildTool\AptioVBuildTools_33
+set EWDK_DIR=D:\BuildTool\EnterpriseWDK_1703
 
 if exist PurleyLenovo.veb (
 	set VEB=PurleyLenovo

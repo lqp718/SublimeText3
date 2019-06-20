@@ -1,10 +1,10 @@
 @echo on
 
-set PATH=E:\BuildTool\WinDDK\7600.16385.1\bin\x86;E:\BuildTool\AptioVBuildTools;%PATH%
+set PATH=D:\BuildTool\WinDDK\7600.16385.1\bin\x86;D:\BuildTool\AptioVBuildTools_32;%PATH%
 
-set CCX86DIR=E:\BuildTool\WinDDK\7600.16385.1\bin\x86\x86
-set CCX64DIR=E:\BuildTool\WinDDK\7600.16385.1\bin\x86\amd64
-set TOOLS_DIR=E:\BuildTool\AptioVBuildTools
+set CCX86DIR=D:\BuildTool\WinDDK\7600.16385.1\bin\x86\x86
+set CCX64DIR=D:\BuildTool\WinDDK\7600.16385.1\bin\x86\amd64
+set TOOLS_DIR=D:\BuildTool\AptioVBuildTools_32
 
 xcopy IEC_Platform\*.* RefBuild\Code\PurleyLenovoPkg /E /Y
 xcopy IEC_Platform\PurleyLenovo.* RefBuild\Code\ /Y
