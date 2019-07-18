@@ -1,7 +1,8 @@
 {
 	"path":"$PATH;D:/Work/Sublime Text x64/ST/Data/Packages/User/BuildSystem;D:/Work/Sublime Text x64/ST;",
 	"working_dir":"${folder}",
-	
+	"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+
 	"shell_cmd": "AptioVBuiild.bat buildall",
 	"variants": [
 		{	
