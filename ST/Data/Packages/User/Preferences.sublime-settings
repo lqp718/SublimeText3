@@ -16,5 +16,5 @@
 	"soda_classic_tabs": true,
 	"sublime_merge_path": "sublime_merge/sublime_merge.exe",
 	"theme": "Soda Dark 3.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": false
 }
