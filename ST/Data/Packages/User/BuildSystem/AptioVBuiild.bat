@@ -32,6 +32,9 @@ if exist LenovoRome.veb (
 	set VEB=LenovoRome
 )
 
+if exist SR635_SR655.veb (
+	set VEB=SR635_SR655
+)
 ::start D:\Work\Aptio_5.27\VisualeBios\VisualeBios.exe
 ::set VEB=D:\_Code\_Purley\_02_MOD\Code\PurleyLenovo
 
